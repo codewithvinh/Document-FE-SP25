@@ -92,8 +92,8 @@ D. Đai hôi XI
 
 Q12: Kizspy | Question: 11
 (Choose 1 answer)
-A. Phát triển kinh tế tri thức
 Việc đẩy mạnh ứng dụng khoa học - công nghệ ở nước ta hiện nay phải gắn liền với yếu tố nào?
+A. Phát triển kinh tế tri thức
 B. Phát triển công nghiệp nặng
 C. Phát triển công nghiệp nhẹ
 D. Phát triển sản xuất công nghệ cao
@@ -1584,39 +1584,41 @@ D. Karl Marx
 Chủ đề 'MLN122_SU23_B5_1_877906'
 
 Q1: Answer (Choose 1 answer)
-B A. Tỷ lệ nghịch với năng suất lao động, không phụ thuộc vào cường độ lao động
+Lượng giá trị của đơn vị hàng hoá thay đổi:
+A. Tỷ lệ nghịch với năng suất lao động, không phụ thuộc vào cường độ lao động
 B. Tỷ lệ nghịch với cường độ lao động
 C. Tỷ lệ thuận với năng suất lao động
-Lượng giá trị của đơn vị hàng hoá thay đổi:
 => Answer: A, a, a, a, a;
 
 Q2: Answer (Choose 1 answer)
-B A. Phát triển kinh tế và công nghiệp phải có sự nhảy vọt và không cần thực hiện tuần tự
-C B. Ưu tiên phát triển công nghiệp nặng một cách hợp lý trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ
-OD C. Phát triển kinh tế trí thức được dời lại trong giai đoạn sau
-D. Coi trọng phát triển giáo dục và đào tạo, khoa học và công nghệ, xem đây là nền tảng và động lực cho công nghiệp hóa, hiện đại hóa
 Tiến hành công nghiệp hoá theo kiểu rút ngắn so với các nước đi trước đặc biệt chúng ta cần cầu nào?
+A. Phát triển kinh tế và công nghiệp phải có sự nhảy vọt và không cần thực hiện tuần tự
+B. Ưu tiên phát triển công nghiệp nặng một cách hợp lý trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ
+C. Phát triển kinh tế trí thức được dời lại trong giai đoạn sau
+D. Coi trọng phát triển giáo dục và đào tạo, khoa học và công nghệ, xem đây là nền tảng và động lực cho công nghiệp hóa, hiện đại hóa
 => Answer: D, d, d, d;
 
 Q3: Answer (Choose 1 answer)
-B A. Kết hợp "chế độ tham dự" với "chế độ uỷ nhiệm"
-C B. Chế độ tham dự
-C. Chế độ uỷ nhiệm
 Trong chủ nghĩa tư bản ngày nay, các trùm tài chính thống trị nền kinh tế thông qua:
+A. Kết hợp "chế độ tham dự" với "chế độ uỷ nhiệm"
+B. Chế độ tham dự
+C. Chế độ uỷ nhiệm
 => Answer: A, A, a. kết hợp, a, a;
 
-Q4: B A. Thị trường
+Q4:
+Trong lịch sử phát triển nền sản xuất xã hội, tiền đề nào là quan trọng cho sự ra đời và phát t tế thị trường?
+A. Thị trường
 B. Sản xuất và trao đổi hàng hóa
 C. Sản xuất
 D. Trao đổi hàng hóa
-Trong lịch sử phát triển nền sản xuất xã hội, tiền đề nào là quan trọng cho sự ra đời và phát t tế thị trường?
 => Answer: B, B, b, b;
 
-Q5: B A. W110000 USD
-C B. W 120000 USD
-OD C. W115000 USD
-D. W 100000 USD
+Q5: 
 Để sản xuất ra 1000 đôi dép, công ty đầu tư 100000 USD cho nguyên liệu, vật liệu, 5000 US máy móc. Công ty đó trả 5000 USD cho công nhân, trình độ bóc lột đạt 200%. Tính giá trị (Mdép công ty sản xuất ra?
+A. W110000 USD
+B. W 120000 USD
+C. W115000 USD
+D. W 100000 USD
 => Answer: b, c, b, B, W= c1 c2 v m cộng lại;
 
 Q6: Answer (Choose 1 answer)
@@ -1629,17 +1631,16 @@ D. Sử dụng công nghệ thông tin và máy tính để tự động hóa s�
 
 Q7: "Khoa học và công nghệ sẽ có bước tiến nhảy vọt. Kinh tế tri thức có vai trò ngày càng nổi bì phát triển lực lượng sản xuất" được nhận định trong đại hội mấy của Đảng?
 A. Đại hội XI
-C B. Đại hội X
+B. Đại hội X
 D C. Đại hội VIII
 D. Đại hội IX
 => Answer: b, d, D, d sure, D;
 
 Q8: Answer (Choose 1 answer)
-B A. Vị trí của đất
+Giá cả ruộng đất phụ thuộc các nhân tố nào?
+A. Vị trí của đất
 B. Độ màu mỡ của đất
 C. Mức địa tô của đất
-Giá cả ruộng đất phụ thuộc các nhân tố nào?
-the exam.
 => Answer: C, c, c, c, C;
 
 Q9: Answer (Choose 1 answer)
@@ -1647,97 +1648,94 @@ Q9: Answer (Choose 1 answer)
 A. Liên minh giữa các doanh nghiệp lớn, có khả năng thâu tóm việc sản xuất và tiêu thụ một số loại hàng hóa, có khả năng định ra giá cả độc quyền, nhằm thu lợi nhuận độc quyền cao
 B. Liên minh giữa các tổ chức cá nhân và nhà nước, có khả năng thâu tóm việc sản xuất và tiêu thụ một số loại hàng hóa, có khả năng định ra giá cả độc quyền, nhằm thu lợi nhuận độc quyền cao
 C. Liên minh giữa các doanh nghiệp vừa và nhỏ, có khả năng thâu tóm việc sản xuất và tiêu thụ một số loại hàng hóa, có khả năng định ra giá cả độc quyền, nhằm thu lợi nhuận độc quyền cao
-the exam.
 => Answer: A, a, a, a, a;
 
 Q10: Answer (Choose 1 answer)
+Quan điểm cho rằng, xã hội loài người phát triển dựa theo những quy luật tự nhiên thuộc về t
 A. Kinh tế chính trị của Karl Marx
 B. Kinh tế chính trị cổ điển Anh
 C. Chủ nghĩa trọng thương
 D. Chủ nghĩa trọng nông
-Quan điểm cho rằng, xã hội loài người phát triển dựa theo những quy luật tự nhiên thuộc về t
 => Answer: a, a, b, b, b;
 
-Q11: Ai là người đưa kinh tế chính trị trở thành môn khoa học có tính hệ thống với các phạm trù và ngành?
-B A. Karl Marx
+Q11: Ai là người đưa kinh tế chính trị trở thành môn khoa học có tính hệ thống với các phạm trù và khái niệm chuyên ngành?
+A. Karl Marx
 B. Willian Stafford
-OD C. Adam Smith
+C. Adam Smith
 D. David Ricardo
 => Answer: c, c, Câu hỏi: Ai là người đưa kinh tế chính trị trở thành môn khoa học có tính hệ thống với các phạm trù và khái niệm chuyên ngành?, c, c;
 
 Q12: Answer (Choose 1 answer)
 Chọn phương án sai: Lý do để Việt Nam hoàn thiện thể chế kinh tế thị trường định hướng xã
-B A. Do thể chế kinh tế thị trường định hướng xã hội chủ nghĩa chưa hoàn thiện
+A. Do thể chế kinh tế thị trường định hướng xã hội chủ nghĩa chưa hoàn thiện
 B. Do đảng cộng sản lãnh đạo
-OD C. Hệ thống thể chế chưa đầy đủ
+C. Hệ thống thể chế chưa đầy đủ
 D. Hệ thống thể chế còn kém hiệu lực, hiệu quả, thiếu các yếu tố thị trường và các loại thị trường
 => Answer: B, b, b, b, b;
 
 Q13: Answer (Choose 1 answer)
 Vì sao hàng hóa có hai thuộc tính là giá trị và giá trị sử dụng?
-B A. Vì có lao động quá khứ và lao động sống
+A. Vì có lao động quá khứ và lao động sống
 B. Vì có lao động giản đơn và lao động phức tạp
 C. Vì nhu cầu trong trao đổi hàng hóa
 D. Vì lao động sản xuất hàng hóa có tính hai mặt là : lao động cụ thể và lao động trừu tượng
 => Answer: d, d, d, d, d;
 
 Q14: Chọn câu sai khi nói về kinh tế thị trường.
-B A. Kinh tế thị trường phát triển mạnh nhất trong xã hội chủ nghĩa tư bản
-C B. Kinh tế thị trường đối lập với kinh tế tự nhiên
-OD C. Kinh tế thị trường đối lập với các chế độ xã hội
+A. Kinh tế thị trường phát triển mạnh nhất trong xã hội chủ nghĩa tư bản
+B. Kinh tế thị trường đối lập với kinh tế tự nhiên
+C. Kinh tế thị trường đối lập với các chế độ xã hội
 D. Kinh tế thị trường Là thành tựu chung của nhân loại
 => Answer: C, c, c, c, c;
 
 Q15: Answer (Choose 1 answer)
-B A. Một giai đoạn
-C B. Hai giai đoạn
+Nghiên cứu về cách mạng công nghiệp lần thứ nhất, C. Mác đã khái quát tính quy luật của cá nghiệp qua mấy giai đoạn phát triển?
+A. Một giai đoạn
+B. Hai giai đoạn
 C. Bốn giai đoạn
 D. Ba giai đoạn
-Nghiên cứu về cách mạng công nghiệp lần thứ nhất, C. Mác đã khái quát tính quy luật của cá nghiệp qua mấy giai đoạn phát triển?
-the exam.
 => Answer: d, Câu hỏi: Nghiên cứu về cách mạng công nghiệp lần thứ nhất, C.Mác đã khái quát tính quy luật của cách mạng công nghiệp qua mấy giai đoạn phát triển?, d, d, d;
 
-Q16: B A. Đại hội V (1982)
-C B. Đại hội X (2006)
+Q16:
+Đảng ta khẳng định: “Nền kinh tế thị trường định hướng xã hội chủ nghĩa ở nước ta là nền kin nhiều thành phần, vận hành theo cơ chế thị trường, có sự quản lý của Nhà nước, dưới sự lãnh Cộng sản" từ Đại hội nào?
+A. Đại hội V (1982)
+B. Đại hội X (2006)
 C. Đại hội VI (1986)
 D. Đại hội XI (2011)
-Đảng ta khẳng định: “Nền kinh tế thị trường định hướng xã hội chủ nghĩa ở nước ta là nền kin nhiều thành phần, vận hành theo cơ chế thị trường, có sự quản lý của Nhà nước, dưới sự lãnh Cộng sản" từ Đại hội nào?
 => Answer: D, D, D, d;
 
 Q17: Answer (Choose 1 answer)
+Công nghiệp hoá, hiện đại hoá đất nước phải bảo đảm:
 A. Xây dựng nền kinh tế mở nhưng chỉ giao lưu hợp tác với các nước xã hội chủ nghĩa
 B. Xây dựng nền kinh tế phải dựa vào sự giúp đỡ và lệ thuộc vào các nước tư bản
 C. Xây dựng nền kinh tế độc lập tự chủ
 D. Xây dựng nền kinh tế khép kín và hướng nội
-Công nghiệp hoá, hiện đại hoá đất nước phải bảo đảm:
 => Answer: C, c, c, C;
 
 Q18: Answer (Choose 1 answer)
 Tích lũy tư bản dẫn đến:
-the exam.
-B A. Hình thành chủ nghĩa tư bản độc quyền
+A. Hình thành chủ nghĩa tư bản độc quyền
 B. Hình thành chủ nghĩa tư bản
 C. Hình thành độc quyền nhà nước giai đoạn tự do cạnh tranh
 => Answer: A, a, a, a, A;
 
 Q19: Answer (Choose 1 answer)
 Biểu hiện mới của sự phân chia thị trường giữa các liên minh độc quyền đó là:
-B A. Hình thành các tổ chức đa quốc gia
+A. Hình thành các tổ chức đa quốc gia
 B. Hình thành các tổ chức độc quyền trong nhà nước tư bản
-OD C. Hình thành xu hướng khu vực hóa
+C. Hình thành xu hướng khu vực hóa
 D. Hình thành xu hướng toàn cầu hóa
 => Answer: a, Việc xuất khẩu tư bản tăng lên về quy mô và mở rộng phạm vi tất yếu dẫn đến việc phân chia thế giới về mặt kinh tế, nghĩa là phân chia lĩnh vực đầu tư tư bản, phân chia thị trường thế giới giữa các tổ chức độc quyền. Cuộc đấu tranh giành thị trường tiêu thụ, nguồn nguyên liệu và lĩnh vực đầu tư có lợi nhuận cao ở nước ngoài trở nên gay gắt. Những cuộc đụng đầu trên trường quốc tế giữa các tổ chức độc quyền có sức mạnh kinh tế hùng hậu dẫn đến các cuộc cạnh tranh khốc liệt giữa chúng, tất yếu dẫn đến xu hướng thoả hiệp, ký kết hiệp định để củng cố địa vị độc quyền của chúng trong những lĩnh vực và những thị trường nhất định. Từ đó hình thành các liên minh độc quyền quốc tế, các tập đoàn xuyên quốc gia..., a chuẩn, A, a;
 
 Q20: Answer (Choose 1 answer)
-B A. Ba cuộc cách mạng công nghiệp
+Hiện nay thế giới trải qua bao nhiêu cuộc cách mạng công nghiệp?
+A. Ba cuộc cách mạng công nghiệp
 B. Bốn cuộc cách mạng công nghiệp
 C. Năm cuộc cách mạng công nghiệp
-Hiện nay thế giới trải qua bao nhiêu cuộc cách mạng công nghiệp?
-the exam.
 D. Hai cuộc cách mạng công nghiệp
 => Answer: a, a, a, a, A;
 
-Q21: OD
+Q21: 
 Cách mạng công nghiệp lần thứ hai đã tạo ra những tiến bộ vượt bậc trong lĩnh vực nào?
 A. Năng lượng điện và năng lượng hóa thạch
 B. Kết cấu hạ tầng và viễn thông
@@ -1759,34 +1757,31 @@ Giao thông vận tải và thông tin liên lạc:
 Cải thiện hệ thống thông tin liên lạc, tăng cường khả năng kết nối toàn cầu., c;
 
 Q22: Answer (Choose 3 answers)
-Những yếu tố cốt lõi của kỹ thuật số trong cách mạng công nghiệp lần thứ 4 là: (chọn 3 phúc
-the exam.
-B A. Công nghệ 3D
-C B. Dữ liệu lớn (Big data)
+Những yếu tố cốt lõi của kỹ thuật số trong cách mạng công nghiệp lần thứ 4 là: (chọn 3 dap an)
+A. Công nghệ 3D
+B. Dữ liệu lớn (Big data)
 C. Công nghệ sinh học
 D. Vạn vật kết nối (IoT)
 E. Trí tuệ nhân tạo (AI)
 => Answer: ABE, bde, bde, bde, BDE;
 
 Q23: Cách mạng công nghiệp lần thứ 3 còn được gọi là:
-the exam.
-B A. Cách mạng vô tuyến
-C B. Cách mạng điện tử
+A. Cách mạng vô tuyến
+B. Cách mạng điện tử
 C. Cách mạng sinh học
 D. Cách mạng máy tính
 => Answer: D, d, d, d, D;
 
 Q24: Answer (Choose 1 answer)
-B A. Những biểu hiện vật chất của lực lượng sản xuất
-B. Các quan hệ giữa cơ sở hạ tầng và kiến trúc thượng tầng
-OD C. Các quan hệ giữa lực lượng sản xuất và quan hệ sản xuất
-D. Các quan hệ xã hội của sản xuất và trao đổi
 Đối tượng nghiên cứu của kinh tế chính trị Mác - Lênin được hiểu là:
-the exam.
+A. Những biểu hiện vật chất của lực lượng sản xuất
+B. Các quan hệ giữa cơ sở hạ tầng và kiến trúc thượng tầng
+C. Các quan hệ giữa lực lượng sản xuất và quan hệ sản xuất
+D. Các quan hệ xã hội của sản xuất và trao đổi
 => Answer: D.  Đối tượng nghiên cứu của kinh tế chính trị Mác - Lênin là các quan hệ xã hội của sản xuất và trao đổi, d, d, d, D;
 
 Q25: Đầu KHÔNG phải là chức năng chính của kinh tế chính trị Mác - Lênin?
-B A. Chức năng phương pháp luận
+A. Chức năng phương pháp luận
 B. Chức năng tư tưởng
 C. Chức năng nhận thức
 D. Chức năng giáo dục
@@ -1794,13 +1789,13 @@ D. Chức năng giáo dục
 => Answer: d, d, d, d, D;
 
 Q26: Xu hướng hiện nay của các tổ chức độc quyền đó là:
-B A. Trở thành các công ty xuyên quốc gia và liên minh với nhà nước tư bản
+A. Trở thành các công ty xuyên quốc gia và liên minh với nhà nước tư bản
 B. Trở thành các tập đoàn lớn
-OD C. Trở thành các công ty độc quyền và tài trợ cho các nước kém phát triển
+C. Trở thành các công ty độc quyền và tài trợ cho các nước kém phát triển
 D. Trở thành các công ty xuyên quốc gia và can thiệp và chế độ chính trị ở các nước đang phát triển
 => Answer: A, a, a, a, A;
 
-Q27: OD
+Q27:
 (Choose 1 answer)
 Việc đẩy mạnh ứng dụng khoa học - công nghệ ở nước ta hiện nay phải gắn liền với yếu tố ni
 A. Phát triển công nghiệp nặng
@@ -1810,18 +1805,18 @@ D. Phát triển công nghiệp nhẹ
 => Answer: C, c, c, c, C;
 
 Q28: Answer (Choose 1 answer)
-A. Phương tiện lưu thông, phương tiện thanh toán; phương tiện mua bán; tiền tệ thế giới, thước đo giá trị
-B. Phương tiện lưu thông, phương tiện thanh toán; phương tiện cất trữ; tiền tệ thế giới, thước đo giá trị
-OD C. Phương tiện lưu thông, phương tiện trao đổi, phương tiện cất trữ tiền tệ, thước đo giá trị
-D. Phương tiện lưu thông; phương tiện thanh toán, phương tiện cất trữ, thước đo giá trị
 Chức năng tiền tệ là:
+A. Phương tiện lưu thông, phương tiện thanh toán, phương tiện mua bán, tiền tệ thế giới, thước đo giá trị
+B. Phương tiện lưu thông, phương tiện thanh toán, phương tiện cất trữ, tiền tệ thế giới, thước đo giá trị
+C. Phương tiện lưu thông, phương tiện trao đổi, phương tiện cất trữ tiền tệ, thước đo giá trị
+D. Phương tiện lưu thông, phương tiện thanh toán, phương tiện cất trữ, thước đo giá trị
 => Answer: B, b, b, b, B;
 
 Q29: Answer (Choose 1 answer)
 Ai là người được Mác coi là sáng lập ra kinh tế chính trị tư sản cổ điển?
-B A. Thomas Mun
+A. Thomas Mun
 B. David Ricardo
-OD C. Adam Smith
+C. Adam Smith
 D. William Petty
 => Answer: D, D
 Marx nhận xét Petty là nhà tư tưởng, nhà thực tiễn lớn, là nhà nghiên cứu kinh tế thiên tài của giai cấp tư sản Anh và là cha đẻ của kinh tế chính trị cổ điển. William Petty, D, d, D;
@@ -1830,15 +1825,14 @@ Q30: Answer (Choose 1 answer)
 Nền kinh tế hàng hoá có thể hình thành và phát triển khi có các điều kiện nào?
 A. Phân công lao động xã hội và sự tách biệt về mặt kinh tế của các chủ thể sản xuất.
 B. Sự tách biệt về mặt kinh tế của các chủ thể sản xuất
-OD C. Của cài dư thừa
+C. Của cài dư thừa
 D. Khi có chế độ tư hữu xuất hiện
 => Answer: A, a, a, a;
 
 Q31: Answer (Choose 1 answer)
 Theo C. Mác, hàng hoá là sản phẩm lao động được sản xuất ra nhằm mục đích gì?
-the exam.
-B A. Trao đổi và mua bán
-C B. Tiêu dùng
+A. Trao đổi và mua bán
+B. Tiêu dùng
 C. Kiếm lợi nhuận
 D. Tặng và biểu
 => Answer: A, a, a, a, A;
@@ -1860,8 +1854,8 @@ D. Gắn với nền kinh tế thị trường định hướng tư bản chủ 
 => Answer: B, b, b, b, B;
 
 Q34: Cách mạng công nghiệp lần thứ hai diễn ra trong giai đoạn nào?
-B A. Từ nửa cuối thế kỷ XIX đến đầu thế kỷ XX
-C B. Từ nửa đầu thế kỷ XIX đến cuối thế kỷ XIX
+A. Từ nửa cuối thế kỷ XIX đến đầu thế kỷ XX
+B. Từ nửa đầu thế kỷ XIX đến cuối thế kỷ XIX
 C. Từ nữa cuối thế kỷ XIX đến nửa cuối thế kỷ XX
 D. Từ nửa đầu thế kỷ XX để nữa cuối thế kỷ XX
 => Answer: A
@@ -1870,8 +1864,7 @@ https://www.cohost.vn/blog-posts/lich-su-***-cuoc-cach-mang-1-2-3, a, a, a, A;
 
 Q35: Answer (Choose 1 answer)
 Để tiền biến thành tư bản cần?
-the exam.
-B A. Phải tích lũy một lượng tiền lớn; tiền cần phải được đưa vào kinh doanh tư bản với mục đích thu giá trị thặng dư
+A. Phải tích lũy một lượng tiền lớn; tiền cần phải được đưa vào kinh doanh tư bản với mục đích thu giá trị thặng dư
 B. Phải tích lũy được một lượng hàng hóa lớn; hàng hóa cần phải được đưa vào kinh doanh tư bản với mục đích thu giá trị thặng dư OD
 C. Phải tích lũy một lượng tiền lớn
 D. Phải tích lũy được một lượng máy móc lớn, máy móc cần phải được đưa vào kinh doanh tư bản với mục đích thu giá trị thặng dư
@@ -1888,15 +1881,14 @@ D. Từ cổ đại đến thế kỷ XVIII
 
 Q37: Answer (Choose 1 answer)
 Chọn phương án sai: vai trò của cách mạng công nghiệp đối với sự phát triển đó là:
-B A. Thúc đẩy các quan hệ sản xuất môi ra đời
+A. Thúc đẩy các quan hệ sản xuất môi ra đời
 B. Thúc đẩy đổi mới phương thức quản trị phát triển
-OD C. Thúc đẩy hoàn thiện quan hệ sản xuất
+C. Thúc đẩy hoàn thiện quan hệ sản xuất
 D. Thúc đẩy sự phát triển của lực lượng sản xuất
 => Answer: A, a, a, a, A;
 
 Q38: Vai trò của máy móc trong quá trình tạo ra giá trị thặng dư, chọn ý đúng:
-the exam.
-B A. Máy móc là tiền đề vật chất cho việc tạo ra giá trị thặng dư
+A. Máy móc là tiền đề vật chất cho việc tạo ra giá trị thặng dư
 B. Máy móc và sức lao động đều tạo ra giá trị thặng dư
 C. Máy móc là nguồn gốc của giá trị thặng dư
 => Answer: A, a, a, a;
@@ -1915,125 +1907,96 @@ B. Quy luật kinh tế là quy luật xã hội do con người đặt ra, là 
 Chọn phương án đúng về quy luật kinh tế:
 C. Quy luật kinh tế có tính lịch sử
 the exam.
-=> Answer: a, C, a, A sure
-
-
-	
-
-	
-		
-			
-				
-					
-						
-					
-				
-			
-			
-				
-					
-						Chọn phương án đúng về quy luật kinh tế:
-					
-				
-
-				
-
-				
-					
-						
-							
-						
-					
-					hoc247.net, C;
+=> Answer: a, C, a, A sure hoc247.net, C;
 
 Q41: Answer (Choose 1 answer)
-B A. Chiếm hữu nô lệ
+Kinh tế thị trường đã hình thành trong xã hội nào?
+A. Chiếm hữu nô lệ
 B. Phong kiến
 C. Tư bản chủ nghĩa
 D. Xã hội chủ nghĩa
-Kinh tế thị trường đã hình thành trong xã hội nào?
 => Answer: b, b, b, b, b;
 
 Q42: 42
 Answer (Choose 1 answer)
-B A. Công nghiệp khai khoáng
-C B. Công nghiệp nhẹ
+Con đường công nghiệp hóa của Liên Xô thường ưu tiên lĩnh vực nào?
+A. Công nghiệp khai khoáng
+B. Công nghiệp nhẹ
 C. Công nghiệp nặng
 D. Công nghiệp chế tạo
-Con đường công nghiệp hóa của Liên Xô thường ưu tiên lĩnh vực nào?
 => Answer: C, c, c, c, C;
 
 Q43: Đại hội nào của Đảng Cộng sản Việt Nam đề cập đến sự cần thiết đổi mới cơ chế quản lý kin
-B A. Đại hội đảng VII
-C B. Đại hội đảng VI
+A. Đại hội đảng VII
+B. Đại hội đảng VI
 C. Đại hội đảng VIII
 D. Đại hội đảng V
 => Answer: B, b, b, b, b;
 
 Q44: (44)
 Answer (Choose 1 answer)
-B A. Tích tụ và tập trung tư bản
+Trong nền sản xuất hàng hóa, lạm phát là hiện tượng kinh tế tác động trực tiếp đến:
+A. Tích tụ và tập trung tư bản
 B. Tuần hoàn và chu chuyển tư bản
 C. Sản xuất và tiêu dùng
-Trong nền sản xuất hàng hóa, lạm phát là hiện tượng kinh tế tác động trực tiếp đến:
-the exam.
 => Answer: C, c, c, c, C;
 
-Q45: Theo quan điểm của kinh tế chính trị, trong tư liệu lao động bộ phận nào quyết định đến năn
-B A. Các vật chứa đựng, bảo quản
+Q45: Theo quan điểm của kinh tế chính trị, trong tư liệu lao động bộ phần nào quyết định đến năng suất lao động?
+A. Các vật chứa đựng, bảo quản
 B. Nguyên vật liệu cho sản xuất
-OD C. Công cụ lao động
+C. Công cụ lao động
 D. Kết cấu hạ tầng sản xuất
 => Answer: c, c, Câu hỏi: Theo quan điểm của kinh tế chính trị, trong tư liệu lao động bộ phần nào quyết định đến năng suất lao động?, c, C;
 
 Q46: Trong nền kinh tế thị trường định hướng xã hội chủ nghĩa, thành phần kinh tế nào giữ vai trò (
-B A. Thành phần kinh tế nhà nước
-C B. Thành phần kinh tế tư nhân
-OD C. Thành phần kinh tế tập thể
+A. Thành phần kinh tế nhà nước
+B. Thành phần kinh tế tư nhân
+C. Thành phần kinh tế tập thể
 D. Thành phần kinh tế có vốn đầu tư nước ngoài
 => Answer: A, a, a, a, A;
 
 Q47: Chọn ý đúng về tăng cường độ lao động: Khi cường độ lao động tăng lên thì:
-B A. Số lượng lao động hao phí trong thời gian đó không thay đổi
+A. Số lượng lao động hao phí trong thời gian đó không thay đổi
 B. Số lượng hàng hoá làm ra trong một đơn vị thời gian không đồi
-OD C. Giá trị 1 đơn vị hàng hoá giảm đi
+C. Giá trị 1 đơn vị hàng hoá giảm đi
 D. Tổng số lượng hàng hóa làm ra của một người tăng lên
 => Answer: D, d, d, d, D;
 
 Q48: Answer (Choose 1 answer)
-B A. Tỷ lệ nghịch với năng suất lao động, không phụ thuộc vào cường độ lao động
+A. Tỷ lệ nghịch với năng suất lao động, không phụ thuộc vào cường độ lao động
 B. Tỷ lệ nghịch với cường độ lao động
 C. Tỷ lệ thuận với năng suất lao động
 Lượng giá trị của đơn vị hàng hoá thay đổi:
 => Answer: A, a, a, a, a;
 
 Q49: Answer (Choose 1 answer)
-B A. Phát triển kinh tế và công nghiệp phải có sự nhảy vọt và không cần thực hiện tuần tự
-C B. Ưu tiên phát triển công nghiệp nặng một cách hợp lý trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ
-OD C. Phát triển kinh tế trí thức được dời lại trong giai đoạn sau
-D. Coi trọng phát triển giáo dục và đào tạo, khoa học và công nghệ, xem đây là nền tảng và động lực cho công nghiệp hóa, hiện đại hóa
 Tiến hành công nghiệp hoá theo kiểu rút ngắn so với các nước đi trước đặc biệt chúng ta cần cầu nào?
+A. Phát triển kinh tế và công nghiệp phải có sự nhảy vọt và không cần thực hiện tuần tự
+B. Ưu tiên phát triển công nghiệp nặng một cách hợp lý trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ
+C. Phát triển kinh tế trí thức được dời lại trong giai đoạn sau
+D. Coi trọng phát triển giáo dục và đào tạo, khoa học và công nghệ, xem đây là nền tảng và động lực cho công nghiệp hóa, hiện đại hóa
 => Answer: D, d, d, d;
 
 Q50: Answer (Choose 1 answer)
-B A. Kết hợp "chế độ tham dự" với "chế độ uỷ nhiệm"
-C B. Chế độ tham dự
-C. Chế độ uỷ nhiệm
 Trong chủ nghĩa tư bản ngày nay, các trùm tài chính thống trị nền kinh tế thông qua:
+A. Kết hợp "chế độ tham dự" với "chế độ uỷ nhiệm"
+B. Chế độ tham dự
+C. Chế độ uỷ nhiệm
 => Answer: A, A, a. kết hợp, a, a;
 
-Q51: B A. Thị trường
+Q51: 
+Trong lịch sử phát triển nền sản xuất xã hội, tiền đề nào là quan trọng cho sự ra đời và phát triển tế thị trường?
+A. Thị trường
 B. Sản xuất và trao đổi hàng hóa
 C. Sản xuất
 D. Trao đổi hàng hóa
-Trong lịch sử phát triển nền sản xuất xã hội, tiền đề nào là quan trọng cho sự ra đời và phát t tế thị trường?
 => Answer: B, B, b, b;
 
-Q52: B A. W110000 USD
-C B. W 120000 USD
-OD C. W115000 USD
+Q52: Để sản xuất ra 1000 đôi dép, công ty đầu tư 100000 USD cho nguyên liệu, vật liệu, 5000 US máy móc. Công ty đó trả 5000 USD cho công nhân, trình độ bóc lột đạt 200%. Tính giá trị (Mdép công ty sản xuất ra?
+A. W110000 USD
+B. W 120000 USD
+C. W115000 USD
 D. W 100000 USD
-Để sản xuất ra 1000 đôi dép, công ty đầu tư 100000 USD cho nguyên liệu, vật liệu, 5000 US máy móc. Công ty đó trả 5000 USD cho công nhân, trình độ bóc lột đạt 200%. Tính giá trị (Mdép công ty sản xuất ra?
 => Answer: b, c, b, B, W= c1 c2 v m cộng lại;
 
 Q53: Answer (Choose 1 answer)
@@ -2046,17 +2009,16 @@ D. Sử dụng công nghệ thông tin và máy tính để tự động hóa s�
 
 Q54: "Khoa học và công nghệ sẽ có bước tiến nhảy vọt. Kinh tế tri thức có vai trò ngày càng nổi bì phát triển lực lượng sản xuất" được nhận định trong đại hội mấy của Đảng?
 A. Đại hội XI
-C B. Đại hội X
+B. Đại hội X
 D C. Đại hội VIII
 D. Đại hội IX
 => Answer: b, d, D, d sure, D;
 
 Q55: Answer (Choose 1 answer)
-B A. Vị trí của đất
+Giá cả ruộng đất phụ thuộc các nhân tố nào?
+A. Vị trí của đất
 B. Độ màu mỡ của đất
 C. Mức địa tô của đất
-Giá cả ruộng đất phụ thuộc các nhân tố nào?
-the exam.
 => Answer: C, c, c, c, C;
 
 Q56: Answer (Choose 1 answer)
@@ -2068,50 +2030,49 @@ the exam.
 => Answer: A, a, a, a, a;
 
 Q57: Answer (Choose 1 answer)
+Quan điểm cho rằng, xã hội loài người phát triển dựa theo những quy luật tự nhiên thuộc về t
 A. Kinh tế chính trị của Karl Marx
 B. Kinh tế chính trị cổ điển Anh
 C. Chủ nghĩa trọng thương
 D. Chủ nghĩa trọng nông
-Quan điểm cho rằng, xã hội loài người phát triển dựa theo những quy luật tự nhiên thuộc về t
 => Answer: a, a, b, b, b;
 
 Q58: Ai là người đưa kinh tế chính trị trở thành môn khoa học có tính hệ thống với các phạm trù và ngành?
-B A. Karl Marx
+A. Karl Marx
 B. Willian Stafford
-OD C. Adam Smith
+C. Adam Smith
 D. David Ricardo
 => Answer: c, c, Câu hỏi: Ai là người đưa kinh tế chính trị trở thành môn khoa học có tính hệ thống với các phạm trù và khái niệm chuyên ngành?, c, c;
 
 Q59: Answer (Choose 1 answer)
-Chọn phương án sai: Lý do để Việt Nam hoàn thiện thể chế kinh tế thị trường định hướng xã
-B A. Do thể chế kinh tế thị trường định hướng xã hội chủ nghĩa chưa hoàn thiện
+Chọn phương án sai: Lý do để Việt Nam hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa
+A. Do thể chế kinh tế thị trường định hướng xã hội chủ nghĩa chưa hoàn thiện
 B. Do đảng cộng sản lãnh đạo
-OD C. Hệ thống thể chế chưa đầy đủ
+C. Hệ thống thể chế chưa đầy đủ
 D. Hệ thống thể chế còn kém hiệu lực, hiệu quả, thiếu các yếu tố thị trường và các loại thị trường
 => Answer: B, b, b, b, b;
 
 Q60: Answer (Choose 1 answer)
 Vì sao hàng hóa có hai thuộc tính là giá trị và giá trị sử dụng?
-B A. Vì có lao động quá khứ và lao động sống
+A. Vì có lao động quá khứ và lao động sống
 B. Vì có lao động giản đơn và lao động phức tạp
 C. Vì nhu cầu trong trao đổi hàng hóa
 D. Vì lao động sản xuất hàng hóa có tính hai mặt là : lao động cụ thể và lao động trừu tượng
 => Answer: d, d, d, d, d;
 
 Q61: Chọn câu sai khi nói về kinh tế thị trường.
-B A. Kinh tế thị trường phát triển mạnh nhất trong xã hội chủ nghĩa tư bản
-C B. Kinh tế thị trường đối lập với kinh tế tự nhiên
-OD C. Kinh tế thị trường đối lập với các chế độ xã hội
+A. Kinh tế thị trường phát triển mạnh nhất trong xã hội chủ nghĩa tư bản
+B. Kinh tế thị trường đối lập với kinh tế tự nhiên
+C. Kinh tế thị trường đối lập với các chế độ xã hội
 D. Kinh tế thị trường Là thành tựu chung của nhân loại
 => Answer: C, c, c, c, c;
 
 Q62: Answer (Choose 1 answer)
+Nghiên cứu về cách mạng công nghiệp lần thứ nhất, C. Mác đã khái quát tính quy luật của cá nghiệp qua mấy giai đoạn phát triển?
 A. Một giai đoạn
 B. Hai giai đoạn
 C. Bốn giai đoạn
 D. Ba giai đoạn
-Nghiên cứu về cách mạng công nghiệp lần thứ nhất, C. Mác đã khái quát tính quy luật của cá nghiệp qua mấy giai đoạn phát triển?
-the exam.
 => Answer: d, Câu hỏi: Nghiên cứu về cách mạng công nghiệp lần thứ nhất, C.Mác đã khái quát tính quy luật của cách mạng công nghiệp qua mấy giai đoạn phát triển?, d, d, d;
 
 Q63: Answer (Choose 1 answer)
@@ -2123,19 +2084,20 @@ D. Đại hội XI (2011)
 => Answer: D, D, D, d;
 
 Q64: Answer (Choose 1 answer)
+Công nghiệp hoá, hiện đại hoá đất nước phải bảo đảm:
 A. Xây dựng nền kinh tế mở nhưng chỉ giao lưu hợp tác với các nước xã hội chủ nghĩa
 B. Xây dựng nền kinh tế phải dựa vào sự giúp đỡ và lệ thuộc vào các nước tư bản
 C. Xây dựng nền kinh tế độc lập tự chủ
 D. Xây dựng nền kinh tế khép kín và hướng nội
-Công nghiệp hoá, hiện đại hoá đất nước phải bảo đảm:
 => Answer: C, c, c, C;
 
 Q65: Answer (Choose 1 answer)
 Tích lũy tư bản dẫn đến:
-B A. Hình thành chủ nghĩa tư bản độc quyền
+A. Hình thành chủ nghĩa tư bản độc quyền
 B. Hình thành chủ nghĩa tư bản
 C. Hình thành độc quyền nhà nước giai đoạn tự do cạnh tranh
 => Answer: A, a, a, a, A;
+Chủ đề 'MLN122_SU23_B5_1_877906'
 
 ================================================
 Chủ đề 'MLN122_FA23_FEB5_136652'
@@ -2251,41 +2213,9 @@ D. Đại hội XI
 => Answer: B
 
 Đại hội IX của Đảng (năm 2001) nhận định, thế kỷ XXI, khoa học - công nghệ sẽ có bước tiến nhảy vọt, kinh tế tri thức có vai trò ngày càng nổi bật...
+www.tapchicongsan.org.vn, bước tiến nhảy vọt -> đại hội IX, B, b, B;
 
-
-	
-
-	
-		
-			
-				
-					
-						
-					
-				
-			
-			
-				
-					
-						Tạp chí cộng sản
-					
-				
-
-				Chia sẻ bài viết
-
-				
-					
-						
-					
-					www.tapchicongsan.org.vn, bước tiến nhảy vọt -> đại hội IX, B, b, B;
-
-Q8: nark: 1
-Total Marks: 60
-Vol 8
-Font: Microsoft Sans Serif
-Size: 10
-8
-Time Left:58:56
+Q8: 
 Multiple Choices
 Đâu không phải đặc trưng của chủ nghĩa tư bản?
 (Choose 1 answer)
@@ -2295,13 +2225,7 @@ C. Trao đổi tự nguyện
 D. Một hệ thống giá cả và thị trường cạnh tranh
 => Answer: A, c, A, A, a;
 
-Q9: nark: 1
-Total Marks: 60
-Vol 8
-Font: Microsoft Sans Serif
-Size: 10
-9
-Time Left:58:53
+Q9: 
 Multiple Choices
 Xét về bản chất, thì lợi ích kinh tế được hiểu là:
 (Choose 1 answer)
@@ -2323,13 +2247,7 @@ Câu B sai vì Quan hệ xã hội nhằm thỏa mãn nhu cầu văn hóa với 
 		
 			https://luatminhkhue.vn/loi-ich-kinh-te-la-gi.aspx, C, C;
 
-Q10: nark: 1
-Total Marks: 60
-(10)
-Font: Microsoft Sans Serif
-Vol 8
-Size: 10
-Time Left:58:51
+Q10: 
 Multiple Choices
 Tổ chức Hợp tác và Phát triển kinh tế gọi tắt là gì?
 A. OECD
@@ -2339,13 +2257,7 @@ C. GDP
 D. FPT
 => Answer: A, a, A, A;
 
-Q11: Total Marks: 60
-11 nark: 1
-Multiple Choices
-Vol 8
-Font: Microsoft Sans Serif
-Size: 10
-Time Left:58:48
+Q11: 
 Mệnh đề nào sau đây là ý không đúng về lao động phức tạp?
 (Choose 1 answer)
 A. Lao động phức tạp là lao động trí tuệ của người lao động có trình độ cao
@@ -2353,14 +2265,7 @@ B. Lao động phức tạp là lao động trải qua đào tạo, huấn luy�
 C. Trong cùng một thời gian lao động, lao động phức tạp tạo ra nhiều giá trị hơn lao động giản đơn.
 => Answer: A, a, A, a, A;
 
-Q12: Total Marks: 60
-(12nark: 1
-Multiple Choices
-Vol 8
-Font: Microsoft Sans Serif
-Size: 10
-Time Left:58:46
-Ở Việt Nam cũng như trên thế giới sử dụng thuật ngữ “cách mạng công nghiệp lần thứ tư với hàm ý gì?
+Q12: Ở Việt Nam cũng như trên thế giới sử dụng thuật ngữ “cách mạng công nghiệp lần thứ tư với hàm ý gì?
 (Choose 1 answer)
 A. Sự thay đổi về lượng trong lực lượng sản xuất của nền kinh tế thế giới
 B. Sự thay đổi về chất trong lực lượng sản xuất của nền kinh tế thế giới
@@ -2368,13 +2273,7 @@ C. Sự thay đổi về chất trong quan hệ sản xuất của nền kinh t�
 D. Sự thay đổi căn bản, toàn diện trong đời sống, sản xuất của nền kinh tế thế giới
 => Answer: B, b, b, b, B;
 
-Q13: Total Marks: 60
-13 nark: 1
-Vol 8
-Font: Microsoft Sans Serif
-Size: 10
-Time Left:58:43
-Multiple Choices
+Q13:
 Quan điểm về hoàn thiện thể chế thị trường định hướng xã hội chủ nghĩa là:
 (Choose 1 answer)
 A. Đảm bảo tính đồng bộ giữa các bộ phận cấu thành của các thể chế kinh tế, giữa các yếu tố thị trường và các loại thị trường
@@ -2383,15 +2282,7 @@ C. Kế thừa có chọn lọc thành tựu phát triển kinh tế thị trư�
 D. Tất cả phương án trên
 => Answer: D, d, d, D;
 
-Q14: nark: 1
-Total Marks: 60
-(14)
-Multiple Choices
-Vol 8
-Font: Microsoft Sans Serif
-Size: 10
-Time Left:58:41
-(Choose 1 answer)
+Q14:(Choose 1 answer)
 Phương thức sản xuất tư bản chủ nghĩa hình thành và thay thế cho phương thức sản sản xuất nào?
 A. Phương thức sản xuất phong kiến
 B. Phương thức sản xuất chiếm hữu nô lệ
@@ -2399,13 +2290,7 @@ C. Phương thức sản xuất cộng sản nguyên thuỷ
 D. Phương thức sản xuất cộng sản chủ nghĩa
 => Answer: A, a, A, a, A;
 
-Q15: 15
-nark: 1
-Total Marks: 60
-Vol 8
-Font: Microsoft Sans Serif
-Size: 10
-Time Left:58:38
+Q15: 
 Multiple Choices
 (Choose 1 answer)
 Chi phí sản xuất tư bản thì:
@@ -2414,32 +2299,14 @@ B. Nhỏ hơn chi phí sản xuất thực tế
 C. Bằng chi phí sản xuất thực tế
 => Answer: B, B, B;
 
-Q16: nark: 1
-Total Marks: 60
-(16)
-Vol 8
-Font: Microsoft Sans Serif
-Size: 10
-Time Left:58:34
-Multiple Choices
+Q16: 
 Nhận định nào sau đây là sai?
 (Choose 1 answer)
 A. Consortium là hình thức tổ chức độc quyền theo liên kết dọc
 B. Trust là tổ chức độc quyền cao hơn Syndicate
 C. Các tổ chức độc quyền mở rộng ra nhiều ngành khác nhau là phát triển theo kiểu liên kết dọc
 D. Các nhà tư bản tham gia Cartel vẫn độc lập về sản xuất nhưng mất độc lập về lưu thông
-=> Answer: dap an la gi a, phuc123 đã viết:
-			
-		
-	
-	
-		
-		
-			dap an la gi a
-		
-		Nhấn để mở rộng...
-	
-LÀ D, d, D, D;
+=> Answer: D, d, D, D;
 
 Q17: Total Marks: 60
 17 nark: 1
@@ -2576,34 +2443,7 @@ A. Đại hội đảng X
 B. Đại hội đảng XI
 C. Đại hội đảng XII
 D. Đại hội đảng XIII
-=> Answer: c, Tổng kết 30 năm đổi mới, Đại hội XII của Đảng đã rút ra nhiều bài học, trong đó có bài học: "Đổi mới phải luôn luôn quán triệt quan điểm lấy dân làm gốc, dân là gốc, vì lợi ích của nhân dân, dựa vào nhân dân, phát huy vai trò làm chủ, tinh thần trách nhiệm, sức sáng tạo và mọi nguồn lực của nhân dân, phát huy sức mạnh đại đoàn kết toàn dân"
-
-
-	
-
-	
-		
-			
-				
-					
-						
-					
-				
-			
-			
-				
-					
-						Tạp chí cộng sản
-					
-				
-
-				Chia sẻ bài viết
-
-				
-					
-						
-					
-					www.tapchicongsan.org.vn, C, C, C;
+=> Answer: c, Tổng kết 30 năm đổi mới, Đại hội XII của Đảng đã rút ra nhiều bài học, trong đó có bài học: "Đổi mới phải luôn luôn quán triệt quan điểm lấy dân làm gốc, dân là gốc, vì lợi ích của nhân dân, dựa vào nhân dân, phát huy vai trò làm chủ, tinh thần trách nhiệm, sức sáng tạo và mọi nguồn lực của nhân dân, phát huy sức mạnh đại đoàn kết toàn dân", C, C, C;
 
 Q26: nark: 1
 Total Marks: 60
@@ -3534,7 +3374,7 @@ Exit 26
 
 Q27: (Choose 1 answer)
 Sự phân chia tư bản thành tư bản bất biến và tư bản khả biến là để biết:
-B A. Nguồn gốc của giá trị thặng dư
+A. Nguồn gốc của giá trị thặng dư
 B. Tính chất của lao động
 C. Đặc điểm chuyển giá trị của từng loại tư bản vào sản phẩm
 D. Vai trò của lao động quá khứ và lao động sống trong việc tạo ra giá trị sử dụng
@@ -3600,7 +3440,7 @@ Exit 30
 
 Q31: (Choose 1 answer)
 Chọn phương án sai: Lý do để Việt Nam hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa là:
-B A. Do đảng cộng sản lãnh đạo
+A. Do đảng cộng sản lãnh đạo
 B. Hệ thống thể chế chưa đầy đủ
 C. Hệ thống thể chế còn kém hiệu lực, hiệu quả, thiếu các yếu tố thị trường và các loại thị trường
 D. Do thể chế kinh tế thị trường định hướng xã hội chủ nghĩa chưa hoàn thiên
