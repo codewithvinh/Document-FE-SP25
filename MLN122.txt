@@ -8,7 +8,7 @@ A. Phát triển kinh tế và công nghiệp phải có sự nhảy vọt và k
 B. Coi trọng phát triển giáo dục và đào tạo, khoa học và công nghệ, xem đây là nền tảng và động lực cho công nghiệp hóa, hiện đại hóa
 C. Phát triển kinh tế trí thức được dời lại trong giai đoạn sau
 D. Ưu tiên phát triển công nghiệp nặng một cách hợp lý trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ
-=> Answer: B, b, B, b, B
+=> Answer: B, b, B, b, B;
 
 Q2: Kizspy | Question: 2
 (Choose 1 answer)
@@ -17,7 +17,7 @@ A. Từ đầu thập niên 50 của thế kỷ XX đến cuối thế kỷ XX
 B. Từ đầu thập niên 60 của thế kỷ XX đến cuối thế kỷ XX
 C. Từ đầu thập niên 70 của thế kỷ XX đến cuối thế kỷ XX
 D. Từ đầu thập niên 80 của thế kỷ XX đến cuối thế kỷ XX
-=> Answer: b, B, B, B
+=> Answer: b, B, B, B;
 
 Q3: Kizspy | Question: 3
 (Choose 1 answer)
@@ -26,69 +26,60 @@ A. Đại công nghiệp tách khỏi nông nghiệp
 B. Trồng trọt tách khỏi chăn nuôi
 C. Ngành thương nghiệp ra đời
 D. Thủ công nghiệp tách khỏi nông nghiệp
-=> Answer: d, D, D, D
+=> Answer: d, D, D, D;
 
-Q4: Kizspy | Question: 4
+Q5: Kizspy | Question: 4
 (Choose 1 answer)
 Ở Việt Nam cũng như trên thế giới sử dụng thuật ngữ “cách mạng công nghiệp lần thứ tư" với hàm ý gì?
 A. Sự thay đổi về lượng trong lực lượng sản xuất của nền kinh tế thế giới
 B. Sự thay đổi về chất trong lực lượng sản xuất của nền kinh tế thế giới
 C. Sự thay đổi về chất trong quan hệ sản xuất của nền kinh tế thế giới
 D. Sự thay đổi căn bản, toàn diện trong đời sống, sản xuất của nền kinh tế thế giới
-=> Answer: B for sủa, D, B, B, B
+=> Answer: B for sủa, D, B, B, B;
 
-Q5: Kizspy | Question: 5
+Q6: Kizspy | Question: 5
 (Choose 1 answer)
 Cách mạng công nghiệp lần thứ hai đã tạo ra những tiến bộ vượt bậc trong lĩnh vực nào?
 A. Giao thông vận tải và thông tin liên lạc
 B. Kết cấu hạ tầng và viễn thông
 C. Năng lượng điện và năng lượng hóa thạch
 D. Tất cả phương án trên
-=> Answer: d, D, d, D, D
+=> Answer: d, D, d, D, D;
 
-Q6: Kizspy | Question: 6
+Q7: Kizspy | Question: 6
 (Choose 1 answer)
 Đảng Cộng sản Việt Nam luôn nhấn mạnh tầm quan trọng của việc xây dựng nền kinh tế:
 A. Mở cửa
 B. Độc lập, tự chủ
 C. Hội nhập kinh tế quốc tế
 D. Có tính canh tranh
-=> Answer: B, b, Độc lập tự chủ, B, B
+=> Answer: B, b, Độc lập tự chủ, B, B;
 
-Q7: Kizspy | Question: 7
+Q8: Kizspy | Question: 7
 (Choose 1 answer)
 Cách mạng công nghiệp lần thứ tư được đề cập lần đầu tiên tại ở đâu và năm nào?
 A. Tai Đức năm 2011
 B. Tại Pháp năm 2011
 C. Tai Anh năm 2012
 D. Tại Mỹ năm 2011
-=> Answer: a, A, A, A, A
+=> Answer: a, A, A, A, A;
 
-Q8: Kizspy | Question: 8
+Q9: Kizspy | Question: 8
 (Choose 1 answer)
 Cách mạng công nghiệp lần thứ tư sẽ làm mất đi lợi thế của các nước đang phát triển về:
 A. Tài nguyên thiên nhiên, công nhân giá rẻ
 B. Khoáng sản, sức lao động
 C. Khoa học công nghệ, nhân công chất lượng cao
-=> Answer: a, A, A, A, A
+=> Answer: a, A, A, A, A;
 
-Q9: Kizspy | Question: 9
+Q10: Kizspy | Question: 9
 (Choose 1 answer)
 Mô hình công nghiệp hoá của Nhật Bản và các nước công nghiệp mới gọi tắt là gì?
 A. NICS
 B. TNCS
 C. OECD
 D. FPT
-=> Answer: a, A, a, A, A
-
-Q10: Kizspy | Question: 10
-(Choose 1 answer)
-"Khoa học và công nghệ sẽ có bước tiến nhảy vọt. Kinh tế tri thức có vai trò ngày càng nổi bật trong quá trình phát triển lực lượng sản xuất” được nhận định trong đại hội mấy của Đảng?
-A. Đai hôi VIII
-B. Đại hội IX
-C. Đại hội X
-D. Đai hôi XI
-=> Answer: C, B, b, B, b
+=> Answer: a, A, a, A, A;
 
 Q11: Kizspy | Question: 10
 (Choose 1 answer)
@@ -97,7 +88,7 @@ A. Đai hôi VIII
 B. Đại hội IX
 C. Đại hội X
 D. Đai hôi XI
-=> Answer: C, B, b, B, b
+=> Answer: C, B, b, B, b;
 
 Q12: Kizspy | Question: 11
 (Choose 1 answer)
@@ -106,7 +97,7 @@ Việc đẩy mạnh ứng dụng khoa học - công nghệ ở nước ta hiệ
 B. Phát triển công nghiệp nặng
 C. Phát triển công nghiệp nhẹ
 D. Phát triển sản xuất công nghệ cao
-=> Answer: a, A, A, A, A
+=> Answer: a, A, A, A, A;
 
 Q13: Kizspy | Question: 12 (Choose 1 answer)
 Khi nghiên cứu về cách mạng công nghiệp lần thứ nhất, C. Mác đã khái quát tính quy luật của các mạng công nghiệp qua các giai đoạn phát triển đó là:
@@ -114,148 +105,148 @@ A. Hiệp tác đơn giản, lao động thủ công, lao động phức tạp
 B. Hiệp tác đơn giản, công trường thủ công, công nghiệp hóa
 C. Hiệp tác đơn giản, sản xuất thủ công, sản xuất hiện đại
 D. Hiệp tác đơn giản, công trường thủ công, đại công nghiệp
-=> Answer: d, D, D, D, D
+=> Answer: d, D, D, D, D;
 
-Q14: Kizspy | Question: 14
+Q14: Kizspy | Question: 13
+(Choose 1 answer)
+Nguồn vốn để công nghiệp hóa ở các nước tư bản cổ điển lấy từ đâu?
+A. Cướp bóc thuộc địa
+B. Khai thác lao động làm thuê
+C. Làm phá sản những người sản xuất nhỏ trong nông nghiệp
+D. Tất cả phương án trên
+=> Answer: d, d, D, D;
+
+Q15: Kizspy | Question: 14
 (Choose 1 answer)
 Công nghiệp hoá ở Anh (cuộc cách mạng công nghiệp lần thứ nhất) bắt nguồn từ ngành nào?
 A. Công nghiệp nhẹ
 B. Công nghiệp nặng
 C. Dịch vụ
 D. Sản xuất vũ khí
-=> Answer: a, A, a, A, A
+=> Answer: a, A, a, A, A;
 
-Q15: Kizspy | Question: 15
+Q16: Kizspy | Question: 15
 (Choose 1 answer)
 Lý luận kinh tế chính trị của C. Mác và Ph. Ăngghen được cô đọng và tập trung trong tác phẩm nào?
 A. Tư bản
 B. Bản thảo kinh tế - triết học
 C. Lược thảo phê phán khoa kinh tế chính trị
 D. Tuyên ngôn của Đảng Cộng sản
-=> Answer: a, A, A, A, A
+=> Answer: a, A, A, A, A;
 
-Q16: Kizspy | Question: 16
+Q17: Kizspy | Question: 16
 (Choose 1 answer)
 Yếu tố nào được điều chỉnh bởi quy luật kinh tế tác động vào các động cơ lợi ích và quan hệ lợi ích của con người?
 A. Hành vi con người
 B. Xu hướng tiêu dùng
 C. Mặt hàng sản xuất
 D. Lĩnh vực nghiên cứu
-=> Answer: a, A, A, A
+=> Answer: a, A, A, A;
 
-Q17: Kizspy | Question: 17
+Q18: Kizspy | Question: 17
 (Choose 1 answer)
 Phương pháp nghiên cứu kinh tế chính trị Mác - Lênin phù hợp nhất đó là:
 A. Trừu tượng hóa khoa học
 B. Phân tích và tổng hợp
 C. Quy nạp diễn dịch
 D. Khảo sát, tổng kết thực tiễn
-=> Answer: a, A, A, A, A
+=> Answer: a, A, A, A, A;
 
-Q18: Kizspy | Question: 18
+Q19: Kizspy | Question: 18
 (Choose 1 answer)
 Ai là người được C. Mác coi là sáng lập ra kinh tế chính trị tư sản cổ điển Anh?
 A. David Ricardo
 B. Adam Smith
 C. William Petty
 D. Thomas Mun
-=> Answer: c, C, c, C, C
+=> Answer: c, C, c, C, C;
 
-Q19: Kizspy | Question: 19
+Q20: Kizspy | Question: 19
 (Choose 1 answer)
 Kinh tế chính trị Mác - Lênin đã kế thừa và phát triển trực tiếp những thành tựu của:
 A. Kinh tế chính trị cổ điển Anh
 B. Chủ nghĩa trọng thương
 C. Chủ nghĩa trọng nông
 D. Kinh tế chính trị tầm thường
-=> Answer: a, A, a, A, A
+=> Answer: a, A, a, A, A;
 
-Q20: Kizspy | Question: 20
+Q21: Kizspy | Question: 20
 (Choose 1 answer)
 Hình thức độc quyền nào thống nhất việc sản xuất, tiêu thụ, tài vụ đều do một ban quản trị quản lý?
 A. Cartel
 B. Syndicate
 C. Trust
 D. Consortium
-=> Answer: c, C, C
+=> Answer: c, C, C;
 
-Q21: Kizspy | Question: 21
+Q22: Kizspy | Question: 21
 (Choose 1 answer)
 Bản chất của độc quyền nhà nước trong chủ nghĩa tư bản là:
 A. Sự kết hợp tổ chức độc quyền tư nhân và nhà nước tư sản
 B. Nhà nước tư sản can thiệp vào kinh tế, chi phối độc quyền
 C. Các tổ chức độc quyền phụ thuộc vào nhà nước
 D. Nhằm duy trì lợi ích của nhà nước tư bản
-=> Answer: a, A, A, A
+=> Answer: a, A, A, A;
 
-Q22: Kizspy | Question: 22
+Q23: Kizspy | Question: 22
 (Choose 3 answers)
 Những hạn chế của chủ nghĩa tư bản bao gồm: (chọn nhiều phương án)
 A. Mục đích của nền sản xuất tư bản chủ nghĩa vẫn tập trung chủ yếu vì lợi ích của thiểu số giai cấp tư sản
 B. Chủ nghĩa tư bản đã và đang tiếp tục gây ra chiến tranh và xung đột nhiều nơi trên thế giới
 C. Sự phân hóa giàu nghèo trong lòng các nước tư bản có xu hướng ngày càng sâu sắc
 D. Gây ra biến đổi khí hậu và môi trường
-=> Answer: abc, abc, ABC, ABC
+=> Answer: abc, abc, ABC, ABC;
 
-Q23: Kizspy | Question: 23
+Q24: Kizspy | Question: 23
 (Choose 1 answer)
 Các tổ chức độc quyền hình thành trên cơ sở:
 A. Liên kết dọc và liên kết ngang
 B. Liên kết tự giác và liên kết tự phát
 C. Liên kết bên ngoài và liên kết bên trong
-=> Answer: A, A, a, A, A
+=> Answer: A, A, a, A, A;
 
-Q24: Kizspy | Question: 24
+Q25: Kizspy | Question: 24
 (Choose 1 answer)
 Xuất khẩu hàng hoá là gì?
 A. Đặc điểm của giai đoạn chủ nghĩa tư bản tự do cạnh tranh
 B. Đặc điểm của giai đoạn chủ nghĩa tư bản độc quyền tự do cạnh tranh
 C. Đặc điểm của giai đoạn chủ nghĩa tư bản độc quyền nhà nước
-=> Answer: A, a, a, A, A
+=> Answer: A, a, a, A, A;
 
-Q25: Kizspy | Question: 25
+Q26: Kizspy | Question: 25
 (Choose 3 answers)
 Vai trò tích cực của chủ nghĩa tư bản đó là: (chọn nhiều phương án)
 A. Thúc đẩy lực lượng sản xuất phát triển
 B. Chuyển nền sản xuất nhỏ thành nền sản xuất hiện đại
 C. Thực hiện xã hội hóa sản xuất
 D. Phân công lao động, chuyên môn hóa sản xuất
-=> Answer: abd, abd, abc, ABD, ABD
+=> Answer: abd, abd, abc, ABD, ABD;
 
-Q26: Kizspy | Question: 26
+Q27: Kizspy | Question: 26
 (Choose 1 answer)
 Từ yêu cầu của quy luật quan hệ sản xuất phải phù hợp với trình độ phát triển của lực lượng sản xuất, lý luận của chủ nghĩa Mác - Lênin khẳng định:
 A. Chủ nghĩa tư bản không tồn tại vĩnh viễn
 B. Chủ nghĩa tư bản tiếp tục phát triển đến đình cao
 C. Chủ nghĩa tư bản sẽ diệt vong trong thời gian ngắn
-=> Answer: a, A, a, A, A
+=> Answer: a, A, a, A, A;
 
-Q27: Kizspy | Question: 27
+Q28: Kizspy | Question: 27
 (Choose 1 answer)
 Cơ chế thị trường có sự điều tiết của nhà nước nhằm phục vụ lợi ích của ai?
 A. Chủ nghĩa tư bản độc quyền
 B. Nhà nước dân chủ
 C. Các công ty tài chính
 D. Nhân dân lao động
-=> Answer: D, d, d, D, D
+=> Answer: D, d, d, D, D;
 
-Q28: Kizspy | Question: 28
+Q29: Kizspy | Question: 28
 (Choose 1 answer)
 Trong giai đoạn chủ nghĩa tư bản cạnh tranh tự do, quy luật giá trị thặng dư biểu hiện thành quy luật:
 A. Lợi nhuận độc quyền
 B. Tỷ suất lợi nhuân bình quân
 C. Lợi nhuận độc quyền cao
 D. Tỷ suất giá trị thặng dư
-=> Answer: b, B, b, B, B
-
-Q29: Kizspy | Question: 29
-(Choose 1 answer)
-Lao động sản xuất có vai trò gì đối với con người?
-A. Tạo ra của cải vật chất để nuôi sống con người
-B. Phát triển, hoàn thiện con người cả về thể lực và trí lực
-C. Giúp con người tích luỹ kinh nghiệm, chế tạo ra công cụ sản xuất ngày càng tinh vi
-D. Các phương án trả lời đều đúng
-=> Answer: d, d, D, D
+=> Answer: b, B, b, B, B;
 
 Q30: Kizspy | Question: 29
 (Choose 1 answer)
@@ -264,314 +255,277 @@ A. Tạo ra của cải vật chất để nuôi sống con người
 B. Phát triển, hoàn thiện con người cả về thể lực và trí lực
 C. Giúp con người tích luỹ kinh nghiệm, chế tạo ra công cụ sản xuất ngày càng tinh vi
 D. Các phương án trả lời đều đúng
-=> Answer: d, d, D, D
+=> Answer: d, d, D, D;
 
-Q31: Kizspy | Question: 31 (Choose 1 answer)
+Q31: Kizspy | Question: 30
+(Choose 1 answer)
+Giá trị cá biệt của hàng hoá do:
+A. Hao phí lao động cá biệt của người sản xuất quyết định
+B. Hao phí lao động cá biệt của người sản xuất nhiều hàng hoá quyết định
+C. Hao phí lao động của ngành quyết định
+=> Answer: A, a, a, A, A;
+
+Q32: Kizspy | Question: 31 (Choose 1 answer)
 Phương hướng cơ bản, lâu dài để tăng sản phẩm xã hội là:
 A. Tăng năng suất lao động
 B. Tăng cường độ lao động
 C. Kéo dài thời gian lao động
 D. Mở rộng quy mô sản xuất, khai thác tài nguyên thiên nhiên
-=> Answer: a, A, a, A, A
+=> Answer: a, A, a, A, A;
 
-Q32: Kizspy | Question: 32
+Q33: Kizspy | Question: 32
 (Choose 1 answer)
 Khi đồng thời tăng năng suất lao động và cường độ lao động lên 2 lần thì ý nào dưới đây là đúng?
 A. Giá trị 1 hàng hoá giảm 2 lần, tổng số giá trị hàng hoá tăng 2 lần
 B. Tổng số hàng hoá tăng lên 2 lần, giá trị 1 hàng hoá giảm 2 lần
 C. Tổng số hàng hoá tăng lên 4 lần, tổng số giá trị hàng hoá tăng lên 4 lần
-=> Answer: a, a, A, A
+=> Answer: a, a, A, A;
 
-Q33: Kizspy | Question: 33
+Q34: Kizspy | Question: 33
 (Choose 1 answer)
 Khoa học kỹ thuật càng phát triển làm cho:
 A. Giá trị sử dụng của hàng hóa ngày càng phong phú và đa dạng
 B. Giá trị sử dụng của hàng hóa luôn thay đổi
 C. Giá trị sử dụng của hàng hóa biến thiên theo thị trường
 D. Giá trị của hàng hóa ngày càng phong phú và đa dạng với nhiều sản phẩm
-=> Answer: a, A, a, A, A
+=> Answer: a, A, a, A, A;
 
-Q34: Kizspy | Question: 34
+Q35: Kizspy | Question: 34
 (Choose 1 answer)
 Nhận định nào sau đây là đúng?
 A. Xã hội loài người càng phát triển, sự tách biệt về sở hữu càng sâu sắc, hàng hoá được sản xuất ra càng phong phú.
 B. Xã hội loài người càng phát triển, sự tách biệt về sở hữu càng sâu sắc, hàng hoá được sản xuất ra càng khan hiếm.
 C. Xã hội loài người càng kém phát triển, sự tách biệt về sở hữu càng sâu sắc, hàng hoá được sản xuất ra càng kém phong phú.
 D. Sản xuất càng phát triển, sự tách biệt về sở hữu càng sâu sắc, hàng hoá được sản xuất ra càng kém phong phú.
-=> Answer: a, A, A, A
+=> Answer: a, A, A, A;
 
-Q35: Kizspy | Question: 35
+Q36: Kizspy | Question: 35
 (Choose 1 answer)
 Lưu thông hàng hoá dựa trên nguyên tắc ngang giá. Điều này được hiểu như thế nào là đúng?
 A. Giá cả của từng hàng hoá luôn luôn bằng giá trị của nó
 B. Giá trị luôn luôn bằng giá cả
 C. Giá cả có thể tách rời giá trị và xoay quanh giá trị của nó
-=> Answer: c, C, C
+=> Answer: c, C, C;
 
-Q36: Kizspy | Question: 36
+Q37: Kizspy | Question: 36
 (Choose 1 answer)
 Hàng hóa sức lao động ra đời phải dựa trên:
 A. Ba điều kiên
 B. Một điều kiện
 C. Hai điều kiện
-=> Answer: C, c, c, C, C
+=> Answer: C, c, c, C, C;
 
-Q37: Kizspy | Question: 37
+Q38: Kizspy | Question: 37
 (Choose 1 answer)
 Số lượng tiền cần thiết trong lưu thông có mối quan hệ thế nào với tổng số giá cả hàng hóa được đưa ra thị trường và tốc độ lưu thông của tiền tệ?
 A. Tỉ lệ thuận với tổng giá cả hàng hóa đưa ra thị trường và tốc độ lưu thông tiền tệ
 B. Tỉ lệ nghịch với tổng giá cả hàng hóa đưa ra thị trường và tốc độ lưu thông tiền tệ
 C. Tỉ lệ thuận với tổng giá cả hàng hóa đưa ra thị trường và tỉ lệ nghịch với tốc độ lưu thông tiền tệ
 D. Tỉ lệ nghịch với tổng giá hàng hóa cả đưa ra thị trường và tỉ lệ thuận với tốc độ lưu thông tiền tệ
-=> Answer: c, C, C, C
+=> Answer: c, C, C, C;
 
-Q38: Kizspy | Question: 38
+Q40: Kizspy | Question: 38
 (Choose 1 answer)
 Vai trò của các bộ phận tư bản trong chu chuyển tư bản được xác định trong phạm trù:
 A. Tư bản cố định và lưu thông tư bản
 B. Tư bản cố định và tư bản lưu động
 C. Tư bản tài chính và tư bản công nghiệp
 D. Tư bản bất biến và tư bản lưu động
-=> Answer: b, B, B, B
+=> Answer: b, B, B, B;
 
-Q39: Kizspy | Question: 39
+Q41: Kizspy | Question: 39
 (Choose 1 answer)
 Khối lượng giá trị thặng dư được tính bằng công thức nào?
 A. M = m² * p'
 B. M = m² * V
 C. M = m* t
-=> Answer: b, B, B, B
+=> Answer: b, B, B, B;
 
-Q40: Kizspy | Question: 40
+Q42: Kizspy | Question: 40
 (Choose 1 answer)
 Căn cứ vào đâu để phân chia thành tái sản xuất cá biệt và tái sản xuất xã hội?
 A. Căn cứ vào phạm vi sản xuất
 B. Căn cứ vào tốc đô sản xuất
 C. Căn cứ vào tính chất sản xuất
-=> Answer: a, A, A, A, A
+=> Answer: a, A, A, A, A;
 
-Q41: Kizspy | Question: 41
+Q43: Kizspy | Question: 41
 (Choose 1 answer)
 Nếu nhà tư bản trả công theo đúng giá trị sức lao động thì có còn bóc lột giá trị thặng dư không?
 A. Không còn
 B. Tùy trường hợp cụ thể
 C. Vẫn còn
-=> Answer: c, C, C, C, C
+=> Answer: c, C, C, C, C;
 
-Q42: Kizspy | Question: 42
+Q44: Kizspy | Question: 42
 (Choose 1 answer)
 Loại tái sản xuất nào làm tăng sản phẩm chủ yếu do tăng năng suất lao động và hiệu quả sử dụng các nguồn lực?
 A. Tái sản xuất mở rộng theo chiều rộng
 B. Tái sản xuất mở rộng
 C. Tái sản xuất mở rộng theo chiều sâu
-=> Answer: c, C, c, C, C
+=> Answer: c, C, c, C, C;
 
-Q43: Kizspy | Question: 42
+Q45: Kizspy | Question: 43
 (Choose 1 answer)
-Loại tái sản xuất nào làm tăng sản phẩm chủ yếu do tăng năng suất lao động và hiệu quả sử dụng các nguồn lực?
-A. Tái sản xuất mở rộng theo chiều rộng
-B. Tái sản xuất mở rộng
-C. Tái sản xuất mở rộng theo chiều sâu
-=> Answer: c, C, c, C, C
+Chọn phương án đúng về quy luật kinh tế:
+A. Quy luật kinh tế là quy luật xã hội do con người đặt ra, là quy luật khách quan phát sinh tác dụng qua hoạt động kinh tế của con người
+B. Quy luật kinh tế có tính lịch sử
+C. Các phương án trả lời đều đúng
+=> Answer: c, c, C, C;
 
-Q44: Kizspy | Question: 44
+Q46: Kizspy | Question: 44
 (Choose 1 answer)
 Cổ phiếu có hai loại đó là:
 A. Cổ phiếu thường và cổ phiếu ưu đãi
 B. Cổ phiếu thường và cổ phiếu ưu đãi
 C. Cổ tức và cổ phiếu thường
 D. Cổ phiếu thường và cổ phiếu thường
-=> Answer: a, A, A, A, A
+=> Answer: a, A, A, A, A;
 
-Q45: Kizspy | Question: 45
+Q47: Kizspy | Question: 45
 (Choose 1 answer)
 Khi sử dụng hàng hóa sức lao động sẽ tạo ra:
 A. Giá trị mới bằng giá trị bản thân nó
 B. Giá trị mới lớn hơn giá trị bản thân nó
 C. Giá trị môi nhỏ hơn giá trị bản thân nó
 D. Giá trị sử dụng môi nhỏ hơn giá trị sử dụng bản thân nó
-=> Answer: b, B, B, b, B
+=> Answer: b, B, B, b, B;
 
-Q46: Kizspy | Question: 46
+Q48: Kizspy | Question: 46
 (Choose 1 answer)
 Nguồn gốc của giá trị thặng dư từ đâu mà có?
 A. Mua hàng hóa thấp hơn giá trị thật
 B. Mua hàng hóa cao hơn giá trị thật
 C. Mua hàng hóa bằng giá trị thật
 D. Mua được hàng hóa sức lao động
-=> Answer: d, D, d, d, D
+=> Answer: d, D, d, d, D;
 
-Q47: Kizspy | Question: 47
+Q49: Kizspy | Question: 47
 (Choose 1 answer)
 Trong lịch sử phát triển nền sản xuất xã hội, tiền đề nào là quan trọng nhất cho sự ra đời và phát triển của nền kinh tế thị trường?
 A. Sản xuất
 B. Trao đổi hàng hóa
 C. Thị trường
 D. Sản xuất và trao đổi hàng hóa
-=> Answer: d, D, D, d, D
+=> Answer: d, D, D, d, D;
 
-Q48: Kizspy | Question: 47
-(Choose 1 answer)
-Trong lịch sử phát triển nền sản xuất xã hội, tiền đề nào là quan trọng nhất cho sự ra đời và phát triển của nền kinh tế thị trường?
-A. Sản xuất
-B. Trao đổi hàng hóa
-C. Thị trường
-D. Sản xuất và trao đổi hàng hóa
-=> Answer: d, D, D, d, D
-
-Q49: Kizspy | Question: 48
+Q50: Kizspy | Question: 48
 (Choose 1 answer)
 Chọn câu sai khi nói về đặc điểm của kinh tế thị trường.
 A. Kinh tế thị trường là kinh tế hàng hoá phát triển cao
 B. Kinh tế thị trường lấy khoa học công nghệ hiện đại làm cơ sỞ
 C. Kinh tế thị trường chỉ có thể phát triển mạnh ở xã hội phong kiến
 D. Kinh tế thị trường đạt đến trình độ cao trong chủ nghĩa tư bản
-=> Answer: c, C, C, c, C
+=> Answer: c, C, C, c, C;
 
-Q50: Kizspy | Question: 49
+Q51: Kizspy | Question: 49
 (Choose 1 answer)
 Một trong những đặc điểm chủ yếu của bất kỳ xã hội nào lấy thị trường làm phương tiện có tính cơ sở để phân phối các nguồn lực kinh tế là:
 A. Có hệ thống pháp quy kiện toàn và sự quản lý vĩ mô của Nhà nước
 B. Có hệ thống pháp quy kiện toàn và sự quản lý vi mô của Nhà nước
 C. Có hệ thống pháp quy kiện toàn và sự quản lý văn hóa xã hội của Nhà nước
 D. Có hệ thống pháp quy kiện toàn và sự quản lý kinh tế, giáo dục của Nhà nước
-=> Answer: a, A, a, A
+=> Answer: a, A, a, A;
 
-Q51: Kizspy | Question: 50
+Q52: Kizspy | Question: 50
 (Choose 1 answer)
 A. Thành phần kinh tế có vốn đầu tư nước ngoài
 Trong nền kinh tế thị trường định hướng xã hội chủ nghĩa, thành phần kinh tế mới nào xuất hiện ở nước ta?
 B. Không có thành phần kinh tế mới xuất hiện
 C. Thành phần kinh tế tập thể
 D. Thành phần kinh tế nhà nước
-=> Answer: a, A, a, a, A
+=> Answer: a, A, a, a, A;
 
-Q52: Kizspy | Question: 51
+Q53: Kizspy | Question: 51
 (Choose 1 answer)
 Tư duy của Đảng về kinh tế thị trường là:
 A. Có thể và cần thiết sử dụng kinh tế thị trường để xây dựng chủ nghĩa xã hội ở nước ta
 B. Có thể và không cần thiết sử dụng kinh tế thị trường để xây dựng chủ nghĩa xã hội ở nước ta
 C. Không thể và không cần thiết sử dụng kinh tế thị trường để xây dựng chủ nghĩa xã hội ở nước ta
 D. Kinh tế thị trường là cái riêng có của chủ nghĩa tư bản
-=> Answer: a, A, A, a, A
+=> Answer: a, A, A, a, A;
 
-Q53: Kizspy | Question: 52
+Q54: Kizspy | Question: 52
 (Choose 1 answer)
 Thể chế được hiểu là:
 A. Những quy tắc, pháp luật, bộ máy quản lí và cơ chế vận hành nhằm điều chỉnh các hoạt động của con người trong 1 chế độ xã hội
 B. Luật chơi" chính thức và phi chính thức được đặt ra đối với các chủ thể tham gia hoạt động trong nền kinh tế của một quốc gia trong một giai đoạn lịch sử nhất định
 C. Được cấu thành bởi hệ thống các bộ phận khác nhau mà mỗi bộ phận cũng là một hệ thống phức tạp gồm nhiều yếu tố
-=> Answer: a, A, A, a, A
+=> Answer: a, A, A, a, A;
 
-Q54: Kizspy | Question: 53
+Q55: Kizspy | Question: 53
 (Choose 1 answer)
 Nền kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam có tính chất:
 A. Phổ biến và đặc thù
 B. Phổ biến và cách mạng
 C. Phổ biến và riêng biệt
 D. Phổ biến và đại chúng
-=> Answer: a, A, A, a, A
+=> Answer: a, A, A, a, A;
 
-Q55: Kizspy | Question: 55
+Q56: Kizspy | Question: 54
+(Choose 1 answer)
+Hoàn thiện hệ thống luật pháp, cơ chế, chính sách cho hoạt động và phát triển lành mạnh của thị trường chứng khoán, tăng tính minh bạch chống các giao dịch phi pháp, các hành vi rửa tiền là thuộc về:
+A. Thống nhất nhận thức về nền kinh tế thị trường định hướng XHCN
+B. Hoàn thiện thể chế về sở hữu và các thành phần kinh tế, loại hình doanh nghiệp và các tổ chức sản xuất kinh doanh
+C. Hoàn thiện thể chế đảm bảo đồng bộ các yếu tố thị trường và phát triển đồng bộ các loại thị trường
+D. Hoàn thiện thể chế và vai trò lãnh đạo của Đảng
+=> Answer: C, c, c, c, C;
+
+Q57: Kizspy | Question: 55
 (Choose 1 answer)
 Chọn phương án sai: Lý do để Việt Nam hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa là:
 A. Do thể chế kinh tế thị trường định hướng xã hội chủ nghĩa chưa hoàn thiện
 B. Hệ thống thể chế chưa đầy đủ
 C. Hệ thống thể chế còn kém hiệu lực, hiệu quả, thiếu các yếu tố thị trường và các loại thị trường
 D. Do đảng cộng sản lãnh đạo
-=> Answer: d, D, d, d, D
+=> Answer: d, D, d, d, D;
 
-Q56: Kizspy | Question: 55
-(Choose 1 answer)
-Chọn phương án sai: Lý do để Việt Nam hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa là:
-A. Do thể chế kinh tế thị trường định hướng xã hội chủ nghĩa chưa hoàn thiện
-B. Hệ thống thể chế chưa đầy đủ
-C. Hệ thống thể chế còn kém hiệu lực, hiệu quả, thiếu các yếu tố thị trường và các loại thị trường
-D. Do đảng cộng sản lãnh đạo
-=> Answer: d, D, d, d, D
-
-Q57: Kizspy | Question: 56
+Q58: Kizspy | Question: 56
 (Choose 1 answer)
 Đặc trưng cơ bản của cách mạng công nghiệp lần thứ ba là gì?
 A. Sử dụng công nghệ thông tin và máy tính
 B. Sử dụng năng lượng điện
 C. Sử dụng động cơ hơi nước
 D. Sử dụng động cơ điện
-=> Answer: a, A, A, a, A
+=> Answer: a, A, A, a, A;
 
-Q58: Kizspy | Question: 57
+Q59: Kizspy | Question: 57
 (Choose 1 answer)
 Mô hình kinh tế thị trường định hướng xã hội chủ nghĩa ở nước ta lần đầu tiên được Đảng đưa ra tại Đại hội nào?
 A. Đại hội IX (2001)
 B. Đại hội X (2006)
 C. Đại hội XI (2011)
 D. Đại hội V (1982)
-=> Answer: A, a, a, d nhé, tin chuẩn 
+=> Answer: a, a, d nhé, tin chuẩn 
 lần đầu tiên Đảng đưa Mô hình kinh tế thị trường định hướng xã hội chủ nghĩa là: Đại hội V 
-Đại hội lần thứ IX -> đi sâu vào, D
+Đại hội lần thứ IX -> đi sâu vào, D, A theo source;
 
-Q59: Kizspy | Question: 58
+Q60: Kizspy | Question: 58
 (Choose 1 answer)
 Hình thức độc quyền dưới dạng Cartel được phổ biến ở Châu Âu vào thời gian nào?
 A. Đầu thế kỷ XIX
 B. Giữa thế kỷ XIX
 C. Cuối thế kỷ XIX
 D. Đầu thế kỷ XX
-=> Answer: c, C, C, c, C
+=> Answer: c, C, C, c, C;
 
-Q60: Kizspy | Question: 59
+Q61: Kizspy | Question: 59
 (Choose 1 answer)
 Loại tiền nào được hiểu là phương tiện thanh toán mà giá trị hay sức mua của nó với tư cách là tiền vượt xa chi phí sản xuất ra nó hay giá trị của nó khi dùng vào việc khác, chứ không dùng làm tiền?
 A. Tiền quy ước
 B. Tiền tượng trưng
 C. Tiền ghi nợ
 D. Tiền vàng
-=> Answer: d, D, d, D
+=> Answer: d, D, d, D;
 
-Q61: Kizspy | Question: 60
+Q62: Kizspy | Question: 60
 (Choose 3 answers)
 Lý thuyết bàn tay vô hình của Adam Smith được hiểu là: (chọn 3 phương án đúng)
 A. Người bán và người mua, phân bố nguồn lực kinh tế đạt được hiệu quả xã hội lớn nhất mà không cần sự can thiệp của chính phủ
 B. Mô tả khả năng của cơ chế thị trường trong việc điều chỉnh cung cầu trên thị trường.
 C. Các cá nhân tham gia muốn tối đa hóa lợi nhuận cho mình
 D. Mọi người đều bị bàn tay vô hình dẫn tới kết quả làm lợi cho chính mình
-=> Answer: ABC, ABC, abc, abc, ABC
-
-Q62: Kizspy | Question: 1
-(Choose 1 answer)
-Tiến hành công nghiệp hoá theo kiểu rút ngắn so với các nước đi trước đặc biệt chúng ta cần thực hiện yêu cầu nào?
-A. Phát triển kinh tế và công nghiệp phải có sự nhảy vọt và không cần thực hiện tuần tự
-B. Coi trọng phát triển giáo dục và đào tạo, khoa học và công nghệ, xem đây là nền tảng và động lực cho công nghiệp hóa, hiện đại hóa
-C. Phát triển kinh tế trí thức được dời lại trong giai đoạn sau
-D. Ưu tiên phát triển công nghiệp nặng một cách hợp lý trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ
-=> Answer: B, b, B, b, B
-
-Q63: Kizspy | Question: 2
-(Choose 1 answer)
-Cách mạng công nghiệp lần thứ ba diễn ra trong giai đoạn nào?
-A. Từ đầu thập niên 50 của thế kỷ XX đến cuối thế kỷ XX
-B. Từ đầu thập niên 60 của thế kỷ XX đến cuối thế kỷ XX
-C. Từ đầu thập niên 70 của thế kỷ XX đến cuối thế kỷ XX
-D. Từ đầu thập niên 80 của thế kỷ XX đến cuối thế kỷ XX
-=> Answer: b, B, B, B
-
-Q64: Kizspy | Question: 3
-(Choose 1 answer)
-Nội dung công cuộc đại phân công lao động xã hội lần thứ hai là:
-A. Đại công nghiệp tách khỏi nông nghiệp
-B. Trồng trọt tách khỏi chăn nuôi
-C. Ngành thương nghiệp ra đời
-D. Thủ công nghiệp tách khỏi nông nghiệp
-=> Answer: d, D, D, D
-
-Q65: Kizspy | Question: 4
-(Choose 1 answer)
-Ở Việt Nam cũng như trên thế giới sử dụng thuật ngữ “cách mạng công nghiệp lần thứ tư" với hàm ý gì?
-A. Sự thay đổi về lượng trong lực lượng sản xuất của nền kinh tế thế giới
-B. Sự thay đổi về chất trong lực lượng sản xuất của nền kinh tế thế giới
-C. Sự thay đổi về chất trong quan hệ sản xuất của nền kinh tế thế giới
-D. Sự thay đổi căn bản, toàn diện trong đời sống, sản xuất của nền kinh tế thế giới
-=> Answer: B for sủa, D, B, B, B
+=> Answer: ABC, ABC, abc, abc, ABC;
 
 ==================================================================================
 MLN122_FA24_FE_C2_982731
@@ -583,68 +537,68 @@ A. Phát triển kinh tế và công nghiệp phải có sự nhảy vọt và k
 B. Coi trọng phát triển giáo dục và đào tạo, khoa học và công nghệ, xem đây là nền tảng và động lực cho công nghiệp hóa, hiện đại hóa
 C. Phát triển kinh tế trí thức được dời lại trong giai đoạn sau
 D. Ưu tiên phát triển công nghiệp nặng một cách hợp lý trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ
-=> Answer: b, B, b
+=> Answer: b, B, b, B;
 
-Q2: Kizspy | Question: 1 (Choose 1 answer)
-Tiến hành công nghiệp hoá theo kiểu rút ngắn so với các nước đi trước đặc biệt chúng ta cần thực hiện yêu cầu nào?
-A. Phát triển kinh tế và công nghiệp phải có sự nhảy vọt và không cần thực hiện tuần tự
-B. Coi trọng phát triển giáo dục và đào tạo, khoa học và công nghệ, xem đây là nền tảng và động lực cho công nghiệp hóa, hiện đại hóa
-C. Phát triển kinh tế trí thức được dời lại trong giai đoạn sau
-D. Ưu tiên phát triển công nghiệp nặng một cách hợp lý trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ
-=> Answer: b, B, b
-
-Q3: Kizspy | Question: 2
+Q2: Kizspy | Question: 2
 (Choose 1 answer)
 Cách mạng công nghiệp lần thứ tư được đề cập lần đầu tiên tại ở đâu và năm nào?
 A. Tai Đức năm 2011
 B. Tại Pháp năm 2011
 C. Tai Anh năm 2012
 D. Tại Mỹ năm 2011
-=> Answer: a, A, a
+=> Answer: a, A, a, A;
 
-Q4: Kizspy | Question: 3
+Q3: Kizspy | Question: 3
 (Choose 1 answer)
 Cuộc cách mạng công nghiệp nào gắn liền với sự xuất hiện của trí tuệ nhân tạo, big data, 3D...?
 A. Cuộc cách mạng công nghiệp lần thứ tư
 B. Cuộc cách mạng công nghiệp lần thứ năm
 C. Cuộc cách mạng công nghiệp lần thứ ba
 D. Cuộc cách mạng công nghiệp lần thứ hai
-=> Answer: a, A, A
+=> Answer: a, A, A;
 
-Q5: Kizspy | Question: 4
+Q4: Kizspy | Question: 4
 (Choose 1 answer)
 Công nghiệp hoá ở Anh (cuộc cách mạng công nghiệp lần thứ nhất) bắt nguồn từ ngành nào?
 A. Công nghiệp nhẹ
 B. Công nghiệp nặng
 C. Dịch vụ
 D. Sản xuất vũ khí
-=> Answer: a, A, A
+=> Answer: a, A, A;
 
-Q6: Kizspy | Question: 5
+Q5: Kizspy | Question: 5
 (Choose 1 answer)
 Nguyên nhân nào quyết định nhất dẫn đến sự sụp đổ của Liên Xô và hệ thống XHCN ở Đông Âu?
 A. Cơ chế kế hoạch hoá tập trung mệnh lệnh
 B. Sự tiến bộ kỹ thuật không đồng bộ
 C. Sản xuất không đi đôi với tiêu dùng
 D. Công nghiệp hoá nhanh
-=> Answer: a, A, A, a, A
+=> Answer: a, A, A, a, A;
 
-Q7: Kizspy | Question: 6
+Q6: Kizspy | Question: 6
 (Choose 1 answer)
 A. Phát triển kinh tế tri thức
 Việc đẩy mạnh ứng dụng khoa học - công nghệ ở nước ta hiện nay phải gắn liền với yếu tố nào?
 B. Phát triển công nghiệp nặng
 C. Phát triển công nghiệp nhẹ
 D. Phát triển sản xuất công nghệ cao
-=> Answer: a, A, A
+=> Answer: a, A, A;
 
-Q8: Kizspy | Question: 7 (Choose 1 answer)
+Q7: Kizspy | Question: 7 (Choose 1 answer)
 Hội nhập kinh tế quốc tế, mở rộng kinh tế đối ngoại nhằm:
 A. Thu hút vốn đầu tư nước ngoài, thu hút công nghệ hiện đại
 B. Học hỏi kinh nghiệm quản lý tiên tiến của thế giới
 C. Khai thác thị trường thế giới để tiêu thụ các sản phẩm mà nước ta có nhiều lợi thế và khả năng cạnh tranh cao
 D. Tất cả các phương án trên
-=> Answer: d, D, d
+=> Answer: d, D, d;
+
+Q8: Kizspy | Question: 8 (Choose 1 answer)
+Cách mạng công nghiệp lần thứ nhất diễn ra trong thời gian nào?
+A. Từ giữa thế kỷ XV đến giữa thế kỷ XIX
+B. Từ giữa thế kỷ XVI đến giữa thế kỷ XVII
+C. Từ giữa thế kỷ XVIII đến giữa thế kỷ XIX
+D. Từ giữa thế kỷ XIX đến giữa thế kỷ XX
+=> Answer: c, C, C, c;
 
 Q9: Kizspy | Question: 9 (Choose 1 answer)
 Tiến hành công nghiệp hoá theo kiểu rút ngắn so với các nước đi trước, đặc biệt như Việt Nam cần thực hiện yêu cầu nào?
@@ -652,113 +606,105 @@ A. Phát triển kinh tế và công nghiệp phải có sự nhảy vọt và k
 B. Coi trọng phát triển giáo dục và đào tạo, khoa học và công nghệ, xem đây là nền tảng và động lực cho công nghiệp hóa, hiện đại hóa
 C. Phát triển kinh tế tri thức được dời lại trong giai đoạn sau
 D. Ưu tiên phát triển công nghiệp nặng một cách hợp lý trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ.
-=> Answer: b, B, B
+=> Answer: b, B, B;
 
-Q10: Kizspy | Question: 10
+Q11: Kizspy | Question: 10
 (Choose 1 answer)
 Việt Nam gia nhập tổ chức ASEAN khi nào?
 Α. 1995
 Β. 1996
 C. 1993
 D. 1997
-=> Answer: a, A, A, A
+=> Answer: a, A, A, A;
 
-Q11: Kizspy | Question: 11
+Q12: Kizspy | Question: 11
 (Choose 1 answer)
 Cách mạng công nghiệp lần thứ ba diễn ra trong giai đoạn nào?
 A. Từ đầu thập niên 50 của thế kỷ XX đến cuối thế kỷ XX
 B. Từ đầu thập niên 60 của thế kỷ XX đến cuối thế kỷ XX
 C. Từ đầu thập niên 70 của thế kỷ XX đến cuối thế kỷ XX
 D. Từ đầu thập niên 80 của thế kỷ XX đến cuối thế kỷ XX
-=> Answer: a, b, b sure, B, B
+=> Answer: b, b sure, B, B, b;
 
-Q12: Kizspy | Question: 12
+Q13: Kizspy | Question: 12
 (Choose 1 answer)
 Đến nay thế giới trải qua bao nhiêu cuộc cách mạng công nghiệp?
 A. Bốn cuộc cách mạng công nghiệp
 B. Ba cuộc cách mạng công nghiệp
 C. Hai cuộc cách mạng công nghiệp
 D. Năm cuộc cách mạng công nghiệp
-=> Answer: a, B nha các bạn, thầy confirm r. Cuộc cách mạng thứ 4 chỉ mới bắt đầu và đang diễn ra chứ ko đc tính là đã trải qua, B, B, B
+=> Answer: B nha các bạn, thầy confirm r. Cuộc cách mạng thứ 4 chỉ mới bắt đầu và đang diễn ra chứ ko đc tính là đã trải qua, B, B, B, b;
 
-Q13: Kizspy | Question: 13
+Q14: Kizspy | Question: 13
 (Choose 1 answer)
 Mỗi cuộc cách mạng công nghiệp xuất hiện đều có sự phát triển nhảy vọt về:
 A. Tư liệu lao động
 B. Tư liệu sinh hoạt
 C. Tư liệu tiêu dùng
 D. Các phát minh sáng chế
-=> Answer: a, A, A, a
+=> Answer: a, A, A, a;
 
-Q14: Kizspy | Question: 14
+Q15: Kizspy | Question: 14
 (Choose 1 answer)
 Yếu tố nào quyết định đến sự hình thành của cách mạng công nghiệp:
 A. Sự phát triển vượt bậc của quan hệ sản xuất
 B. Phương thức sản xuất mới ra đời
 C. Sự phát triển nhảy vọt về trình độ của tư liệu lao động
 D. Các phát minh sáng chế của các nhà khoa học trên mọi lĩnh vực
-=> Answer: c, C, C, C
+=> Answer: c, C, C, C;
 
-Q15: Kizspy | Question: 15
+Q16: Kizspy | Question: 15
 (Choose 1 answer)
 Đối tượng nghiên cứu của kinh tế chính trị Mác - Lênin được hiểu là:
 A. Các quan hệ xã hội của sản xuất và trao đổi
 B. Các quan hệ giữa lực lượng sản xuất và quan hệ sản xuất
 C. Các quan hệ giữa cơ sở hạ tầng và kiến trúc thượng tầng
 D. Những biểu hiện vật chất của lực lượng sản xuất
-=> Answer: a, A, A
+=> Answer: a, A, A;
 
-Q16: Kizspy | Question: 16
+Q17: Kizspy | Question: 16
 (Choose 1 answer)
 Yếu tố nào được điều chỉnh bởi quy luật kinh tế tác động vào các động cơ lợi ích và quan hệ lợi ích của con người?
 A. Hành vi con người
 B. Xu hướng tiêu dùng
 C. Mặt hàng sản xuất
 D. Lĩnh vực nghiên cứu
-=> Answer: a, A, A
+=> Answer: a, A, A;
 
-Q17: Kizspy | Question: 17 (Choose 1 answer)
+Q18: Kizspy | Question: 17 (Choose 1 answer)
 Điền vào chỗ trống để hoàn thành câu sau: “Chính trị kinh tế học tuyệt nhiên không nghiên cứu sự sản xuất,mà nghiên cứu những quan hệ xã hội giữa.......trong sản xuất, nghiên cứu chế độ xã hội của sản xuất".
 A. Người với người
 B. Con người với tiền tệ
 C. Con người với xã hội
 D. Người với hàng hoá
-=> Answer: a, A, A
+=> Answer: a, A, A;
 
-Q18: Kizspy | Question: 18
+Q19: Kizspy | Question: 18
 (Choose 1 answer)
 Ai là người đưa kinh tế chính trị trở thành môn khoa học có tính hệ thống với các phạm trù và khái niệm chuyên ngành?
 A. Adam Smith
 B. David Ricardo
 C. Karl Marx
 D. Willian Stafford
-=> Answer: a, A, A
+=> Answer: a, A, A;
 
-Q19: Kizspy | Question: 19
+Q20: Kizspy | Question: 19
 (Choose 1 answer)
 Kinh tế chính trị Mác - Lênin có những chức nào?
 A. Chức năng nhận thức, chức năng thực tiễn, chức năng tư tưởng, chức năng khoa học
 B. Chức năng nhận thức, chức năng thực tiễn, chức năng khoa học, chức năng phương pháp luận
 C. Chức năng thực tiễn, chức năng tư tường, chức năng dự báo, chức năng phương pháp luận
 D. Chức năng nhận thức, chức năng thực tiễn, chức năng tư tưởng, chức năng phương pháp luận
-=> Answer: d, D, D
+=> Answer: d, D, D;
 
-Q20: Kizspy | Question: 20
+Q21: Kizspy | Question: 20
 (Choose 1 answer)
 Hình thức tổ chức và cơ chế thống trị của tư bản tài chính trong chủ nghĩa tư bản ngày nay thay đổi là do:
 A. Lực lượng sản xuất phát triển, nhiều ngành mới xuất hiện
 B. Mục đích thu lợi nhuận độc quyền
 C. Sự điều tiết của nhà nước
 D. Nhiều ngành mới ra đời với những quan hệ sản xuất mới
-=> Answer: a, A, a
-
-Q21: Kizspy | Question: 21
-(Choose 1 answer)
-Giá cả độc quyền được hiểu là:
-A. Giá cả các tổ chức độc quyền áp đặt trong quá trình mua và bán
-B. Giá cả do các tổ chức nhà nước áp đặt quy định trong quá trình mua và bán
-C. Giá cả được các tổ chức doanh nghiệp chiếm thị phần lớn trên thị trường áp đặt và thông qua nhà nước đưa ra giá mua và bán
-=> Answer: a, A, a
+=> Answer: a, A, a;
 
 Q22: Kizspy | Question: 21
 (Choose 1 answer)
@@ -766,7 +712,7 @@ Giá cả độc quyền được hiểu là:
 A. Giá cả các tổ chức độc quyền áp đặt trong quá trình mua và bán
 B. Giá cả do các tổ chức nhà nước áp đặt quy định trong quá trình mua và bán
 C. Giá cả được các tổ chức doanh nghiệp chiếm thị phần lớn trên thị trường áp đặt và thông qua nhà nước đưa ra giá mua và bán
-=> Answer: a, A, a
+=> Answer: a, A, a;
 
 Q23: Kizspy | Question: 22
 (Choose 1 answer)
@@ -775,7 +721,7 @@ A. Consortium
 B. Syndicate
 C. Trust
 D. Cartel
-=> Answer: A, A, Về mặt lịch sử, các hình thức tổ chức độc quyền cơ bản từthấp đến cao, bao gồm: cartel (các-ten), syndicate (xanhđica), trust(tờrớt), consortium (côngxoócxiom)., A, A
+=> Answer: A, Về mặt lịch sử, các hình thức tổ chức độc quyền cơ bản từthấp đến cao, bao gồm: cartel (các-ten), syndicate (xanhđica), trust(tờrớt), consortium (côngxoócxiom)., A, A, a;
 
 Q24: Kizspy | Question: 23
 (Choose 1 answer)
@@ -783,7 +729,7 @@ Trong chủ nghĩa tư bản ngày nay, các trùm tài chính thống trị n�
 A. Kết hợp "chế độ tham dự" với "chế độ uỷ nhiệm"
 B. Chế đô tham dư
 C. Chế độ uỷ nhiệm
-=> Answer: a, A, a
+=> Answer: a, A, a;
 
 Q25: Kizspy | Question: 24
 (Choose 1 answer)
@@ -792,7 +738,7 @@ A. Tích tụ tập trung sản xuất và sự ra đời của các xí nghiệ
 B. Sự xuất hiện các thành tựu mới của khoa học
 C. Sản xuất nhỏ phân tán
 D. Nhiều doanh nghiệp vừa và nhỏ ra đời
-=> Answer: a, A, a
+=> Answer: a, A, a;
 
 Q26: Kizspy | Question: 25
 (Choose 1 answer)
@@ -801,42 +747,51 @@ A. Liên kết doc
 B. Liên kết ngang
 C. Cả liên kết dọc và liên kết ngang
 D. Một liên kết khác
-=> Answer: b, B, b
+=> Answer: b, B, b;
 
-Q27: Kizspy | Question: 27 (Choose 1 answer)
+Q27: Kizspy | Question: 26
+(Choose 1 answer)
+Mua cổ phiếu, trái phiếu là hình thức đầu tư gì?
+A. Đầu tư gián tiếp
+B. Đầu tư trực tiếp
+C. Đầu tư thị trường
+D. Đầu tư tiền tệ
+=> Answer: a, A, A, A;
+
+Q28: Kizspy | Question: 27 (Choose 1 answer)
 
 Xu hướng hiện nay của các tổ chức độc quyền đó là:
 A. Trở thành các công ty xuyên quốc gia và liên minh với nhà nước tư bản
 B. Trở thành các công ty độc quyền và tài trợ cho các nước kém phát triển
 C. Trở thành các công ty xuyên quốc gia và can thiệp vào chế độ chính trị ở các nước đang phát triển
 D. Trở thành các tập đoàn lớn
-=> Answer: a, A, A
+=> Answer: a, A, A;
 
-Q28: Kizspy | Question: 28
+Q29: Kizspy | Question: 28
 (Choose 2 answers)
 Sau những năm 50 của thế kỷ XX, chủ nghĩa tư bản chuyển sang chính sách thực dân mới đó là: (chọn nhiều đáp án)
 A. Viên trơ kinh tế
 B. Viện trợ quân sự
 C. Viện trợ thuốc men
 D. Viện trợ chính trị
-=> Answer: ab sure, AB, BD, AB, AB
+=> Answer: ab sure, AB, BD, AB, AB;
 
-Q29: Kizspy | Question: 29
+Q30: Kizspy | Question: 29
 (Choose 1 answer)
 Hãy chọn phương án đúng về đặc điểm của quy luật kinh tế:
 A. Phát huy tác dụng thông qua hoạt động kinh tế của con người
 B. Các phương án trả lời đều đúng
 C. Mang tính khách quan
-=> Answer: b, B, B
+=> Answer: b, B, B;
 
-Q30: Kizspy | Question: 30
+Q31: Kizspy | Question: 30
 (Choose 1 answer)
 Đối tượng nghiên cứu của Kinh tế chính trị Mác - Lênin là:
 A. Các quan hệ của sản xuất và trao đổi trong phương thức sản xuất mà các quan hệ đó hình thành và phát triển
 B. Quá trình sản xuất, phân phối, trao đổi, tiêu dùng
 C. Quan hệ xã hội giữa người với người
 D. Quan hệ sản xuất trong mối quan hệ tác động qua lại giữa lực lượng sản xuất
-=> Answer: a, A, A
+=> Answer: a, A, A;
 
 Q32: Kizspy | Question: 31
 (Choose 1 answer)
@@ -845,16 +800,24 @@ A. Lao động trừu tượng của người sản xuất kết tinh trong hàn
 B. Sự khan hiếm của hàng hoá
 C. Sự hao phí sức lao động của con người
 D. Sự hao phí lao động cá biệt
-=> Answer: a, A, A, a, A
+=> Answer: a, A, A, a, A;
 
-Q33: Kizspy | Question: 33
+Q33: Kizspy | Question: 32
+(Choose 1 answer)
+Hai hàng hoá trao đổi được với nhau vì:
+A. Chúng cùng là sản phẩm của lao động
+B. Có lượng thời gian hao phí lao động cần thiết để sản xuất ra chúng bằng nhau
+C. Các phương án trả lời đều đúng
+=> Answer: c, C, C;
+
+Q34: Kizspy | Question: 33
 (Choose 1 answer)
 Sự phát triển các hình thái giá trị bao gồm:
 A. Hình thái giá trị ngẫu nhiên, hình thái giá trị chung, hình thái tiền tệ
 B. Hình thái giá trị ngẫu nhiên; hình thái giá trị thu hẹp; hình thái giá trị chung; hình thái tiền tệ
 C. Hình thái giá trị ngẫu nhiên; hình thái giá trị mở rộng (đầy đủ); hình thái giá trị chung; hình thái tiền tệ
 D. Hình thái giá trị mở rộng (đầy đủ); hình thái giá trị chung; hình thái tiền tệ
-=> Answer: c, C, C
+=> Answer: c, C, C;
 
 Q35: Kizspy | Question: 34
 (Choose 1 answer)
@@ -863,7 +826,7 @@ A. Khối lượng
 B. Năng suất
 C. Thời gian lao động xã hội cần thiết
 D. Mức độ khan hiếm của hàng hóa
-=> Answer: c, C, C
+=> Answer: c, C, C;
 
 Q36: Kizspy | Question: 35
 (Choose 1 answer)
@@ -871,7 +834,7 @@ Xét về giá trị của hàng hóa, hàng hóa càng khan hiếm thì:
 A. Giá trị của nó càng cao
 B. Giá cả của nó càng cao
 C. Cả giá trị và giá cả của hàng hóa càng cao
-=> Answer: b, B, B
+=> Answer: b, B, B;
 
 Q37: Kizspy | Question: 36
 (Choose 1 answer)
@@ -880,7 +843,7 @@ A. Lượng giá trị hàng hoá tỉ lệ nghịch với năng xuất lao đ�
 B. Lượng giá trị hàng hoá tỉ lệ nghịch với cường độ lao động
 C. Lượng giá trị hàng hoá bằng giá trị lao động giản đơn
 D. Lao động phức tạp và lao động giản đơn tạo ra giá trị hàng hoá như nhau
-=> Answer: A, A, a
+=> Answer: A, A, a;
 
 Q38: Kizspy | Question: 37
 (Choose 1 answer)
@@ -888,7 +851,7 @@ Giá trị cá biệt của hàng hoá do:
 A. Hao phí lao động cá biệt của người sản xuất quyết định
 B. Hao phí lao động cá biệt của người sản xuất nhiều hàng hoá quyết định
 C. Hao phí lao động của ngành quyết định
-=> Answer: a, A
+=> Answer: a, A;
 
 Q39: Kizspy | Question: 38
 (Choose 1 answer)
@@ -896,7 +859,7 @@ Tích lũy tư bản là:
 A. Tư bản hóa tư liệu tiêu dùng
 B. Tư bản hóa giá trị thặng dư
 C. Tư bản hóa sức lao động
-=> Answer: b, B
+=> Answer: b, B;
 
 Q40: Kizspy | Question: 39
 (Choose 1 answer)
@@ -905,138 +868,138 @@ A. Tư bản cho vay là hàng hoá đặc biệt
 B. Tư bản cho vay là hình thái để thu lợi nhuận cao nhất của đầu tư
 C. Quyền sử dụng đi liền với quyền sở hữu
 D. Là một phần của giá trị hàng hoá
-=> Answer: a, A
+=> Answer: a, A;
 
-Q42: Kizspy | Question: 40
+Q41: Kizspy | Question: 40
 (Choose 1 answer)
 Biểu hiện quy luật giá trị thặng dư ở trong giai đoạn chủ nghĩa tư bản độc quyền là:
 A. Quy luật lợi nhuận bình quân
 B. Quy luật lợi nhuận độc quyền
 C. Quy luật lợi nhuận
 D. Quy luật giá cả sản xuất
-=> Answer: b, B, b
+=> Answer: b, B, b;
 
-Q44: Kizspy | Question: 41 (Choose 1 answer)
+Q42: Kizspy | Question: 41 (Choose 1 answer)
 Các công thức tính tỷ suất giá trị thặng dư dưới đây, công thức nào đúng?
 A. m' giá trị thặng dư / tư bản khả biến*100%
 B. m²= thời gian lao động tất yếu/thời gian lao động cần thiết *100%
 C. m²= thời gian lao động thặng dư/lao động cần thiết* 100%
 D. m'= giá trị sức lao động / giá trị thặng dư *100%
-=> Answer: a, A
+=> Answer: a, A;
 
-Q45: Kizspy | Question: 42
+Q43: Kizspy | Question: 42
 (Choose 1 answer)
 Trong quá trình sản xuất tư bản chủ nghĩa, có hai loại hao mòn đó là:
 A. Hao mòn hữu hình và hao mòn vô hình
 B. Hao mòn tự nhiên và hao mòn giá trị
 C. Hao mòn máy móc và hao mòn sức lao động
 D. Hao mòn máy móc và hao mòn nguyên liệu
-=> Answer: a, a
+=> Answer: a, a;
 
-Q46: Kizspy | Question: 43
+Q44: Kizspy | Question: 43
 (Choose 1 answer)
 Khối lượng giá trị thặng dư được tính bằng công thức nào?
 A. M = m² * p'
 B. M = m² * V
 C. M = m* t
-=> Answer: b, b
+=> Answer: b, b;
 
-Q47: Kizspy | Question: 44
+Q45: Kizspy | Question: 44
 (Choose 1 answer)
 m'- Tỷ suất giá trị thặng dư là:
 A. Tỷ lệ phần trăm giữa lượng giá trị thặng dư với tư bản bất biến
 B. Tỷ lệ phần trăm giữa lượng tư bản bất biến với tư bản khả biến
 C. Tỷ lệ phần trăm giữa lượng giá trị thặng dư với tư bản khả biến
 D. Tỷ lệ phần trăm giữa lượng sản phẩm thặng dư với tư bản khả biến
-=> Answer: c, b sure, C nhé - 100%, c, c
+=> Answer: c, b sure, C nhé - 100%, c, c;
 
-Q49: Kizspy | Question: 45
+Q46: Kizspy | Question: 45
 (Choose 1 answer)
 Nguồn gốc của tích lũy tư bản là:
 A. Giá trị của hàng hóa
 B. Giá trị thặng dư
 C. Giá trị của hàng hóa sức lao động
-=> Answer: b, b
+=> Answer: b, b;
 
-Q50: Kizspy | Question: 46
+Q47: Kizspy | Question: 46
 (Choose 1 answer)
 Chi phí thực tế của xã hội để sản xuất hàng hoá là:
 A. Chi phí lao động sống và lao động quá khứ
 B. Chi phí tư bản bất biến và tư bản khả biến
 C. Chi phí sức lao động của toàn xã hội
-=> Answer: a, a
+=> Answer: a, a;
 
-Q51: Kizspy | Question: 47
+Q48: Kizspy | Question: 47
 (Choose 1 answer)
 Xét về trình độ phát triển, kinh tế thị trường ở Việt Nam bao gồm nhiều cấp độ:
 A. Sản xuất hàng hóa nhỏ, kinh tế thị trường sơ khai, kinh tế thị trường hiện đại đan xen
 B. Sản xuất hàng hóa lớn, kinh thế thị trường sơ khai, kinh tế thị trường đan xen
 C. Sản xuất hàng hóa nhỏ, kinh tế thị trường hoàn thiện, kinh tế thị trường hiện đại
 D. Sản xuất hàng hóa lớn, kinh tế thị trường hoàn thiện, kinh tế thị trường hiện đại đan xen
-=> Answer: a, a
+=> Answer: a, a;
 
-Q52: Kizspy | Question: 48 (Choose 1 answer)
+Q49: Kizspy | Question: 48 (Choose 1 answer)
 Mô hình kinh tế thị trường định hướng xã hội chủ nghĩa ở nước ta được chính thức nêu ra ở Đại hội nào của Đảng Cộng sản Việt Nam?
 A. Đai hôi VI
 B. Đại hội VIII
 C. Đại hội IX
 D. Đai hôi X
 => Answer: c
-Phải đến Đại hội IX của Đảng (tháng 4-2001) mới chính thức đưa ra khái niệm "kinh tế thị trường định hướng xã hội chủ nghĩa", C
+Phải đến Đại hội IX của Đảng (tháng 4-2001) mới chính thức đưa ra khái niệm "kinh tế thị trường định hướng xã hội chủ nghĩa", C;
 
-Q53: Kizspy | Question: 49 (Choose 1 answer)
+Q50: Kizspy | Question: 49 (Choose 1 answer)
 Kinh tế thị trường được hiểu là:
 A. Do chủ nghĩa tư bản sinh ra
 B. Có cùng bản chất với kinh tế hàng hóa
 C. Tồn tại chủ quan trong thời kỳ quá độ lên chủ nghĩa xã hội
 D. Là sản phẩm riêng của chủ nghĩa tư bản
-=> Answer: b, b
+=> Answer: b, b;
 
-Q54: Kizspy | Question: 50 (Choose 1 answer)
+Q51: Kizspy | Question: 50 (Choose 1 answer)
 Kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam thành phần kinh tế nào giữ vai trò là một động lực quan trọng thúc đẩy phát triển kinh tế?
 A. Thành phần kinh tế tư nhân
 B. Thành phần kinh tế nhà nước
 C. Thành phần kinh tế tập thể
 D. Thành phần kinh tế có vốn đầu tư nước ngoài
-=> Answer: A, A
+=> Answer: A, A;
 
-Q55: Kizspy | Question: 51 (Choose 1 answer)
+Q52: Kizspy | Question: 51 (Choose 1 answer)
 Đảng ta khẳng định: “Nền kinh tế thị trường định hướng xã hội chủ nghĩa ở nước ta là nền kinh tế hàng hoá nhiều thành phần, vận hành theo cơ chế thị trường, có sự quản lý của Nhà nước, dưới sự lãnh đạo của Đảng Cộng sản" từ Đại hội nào?
 A. Đại hội XI (2011)
 B. Đại hội X (2006)
 C. Đại hội VI (1986)
 D. Đại hội V (1982)
 => Answer: A
-Tiếp tục được Đại hội XI (01-2011) của Đảng khẳng định và cụ thể hóa thêm trên một số phương diện gắn với việc giải quyết các nhiệm vụ cấp bách của nền kinh tế trong giai đoạn hiện nay và mục tiêu phấn đấu đưa nước ta cơ bản trở thành nước công nghiệp theo hướng hiện đại vào năm 2020. Đại hội khẳng định: “Nền kinh tế thị trường ... dưới sự lãnh đạo của Đảng Cộng sản. Đây là một hình thái kinh tế thị trường vừa tuân theo những quy luật của kinh tế thị trường, vừa dựa trên cơ sở và được dẫn dắt, chi phối bởi các nguyên tắc và bản chất của chủ nghĩa xã hội”, A
+Tiếp tục được Đại hội XI (01-2011) của Đảng khẳng định và cụ thể hóa thêm trên một số phương diện gắn với việc giải quyết các nhiệm vụ cấp bách của nền kinh tế trong giai đoạn hiện nay và mục tiêu phấn đấu đưa nước ta cơ bản trở thành nước công nghiệp theo hướng hiện đại vào năm 2020. Đại hội khẳng định: “Nền kinh tế thị trường ... dưới sự lãnh đạo của Đảng Cộng sản. Đây là một hình thái kinh tế thị trường vừa tuân theo những quy luật của kinh tế thị trường, vừa dựa trên cơ sở và được dẫn dắt, chi phối bởi các nguyên tắc và bản chất của chủ nghĩa xã hội”, A;
 
-Q56: Kizspy | Question: 52
+Q53: Kizspy | Question: 52
 (Choose 1 answer)
 Sở hữu chịu sự quy định trực tiếp của yếu tố nào?
 A. Trình độ lực lượng sản xuất
 B. Quan hệ sản xuất
 C. Cơ sở hạ tầng
 D. Kiến trúc thượng tầng
-=> Answer: b, a forrr sure, B, B, b
+=> Answer: a forrr sure, B, B, b, b;
 
-Q57: Kizspy | Question: 53
+Q54: Kizspy | Question: 53
 (Choose 1 answer)
 Đại hội nào đã xác định kinh tế thị trường định hướng xã hội chủ nghĩa là “một kiểu tổ chức kinh tế vừa tuân theo quy luật của kinh tế thị trường vừa dưa trên cơ sở và chịu sự dẫn dắt chi phối bởi các nguyên tắc và bản chất của chủ nghĩa xã hội?
 A. Đại hội Đảng toàn quốc lần thứ VI
 B. Đại hội Đảng toàn quốc lần thứ VII
 C. Đại hội Đảng toàn quốc lần thứ VIII
 D. Đại hội Đảng toàn quốc lần thứ IX
-=> Answer: D sure, D, D, A, d
+=> Answer: D sure, D, D, A, d;
 
-Q58: Kizspy | Question: 54
+Q55: Kizspy | Question: 54
 (Choose 1 answer)
 Trong nền kinh tế thị trường định hướng xã hội chủ nghĩa, thành phần kinh tế nào giữ vai trò chủ đạo?
 A. Thành phần kinh tế nhà nước
 B. Thành phần kinh tế tư nhân
 C. Thành phần kinh tế tập thể
 D. Thành phần kinh tế có vốn đầu tư nước ngoài
-=> Answer: a, A, a
+=> Answer: a, A, a;
 
-Q59: Kizspy | Question: 55
+Q56: Kizspy | Question: 55
 (Choose 1 answer)
 Tính định hướng xã hội chủ nghĩa của nền kinh tế thị trường Việt Nam được thể hiện ở khía cạnh nào?
 A. Là nền kinh tế thị trường có sự quản lý của nhà nước xã hội chủ nghĩa, do Đảng Cộng sản Việt Nam lãnh đao
@@ -1044,30 +1007,48 @@ B. Thực hiện phân phối theo kết quả lao động
 C. Là nền kinh tế mà trong đó việc xác lập thể chế sở hữu, phân phối, quản trị kinh doanh của các chủ thể cũng như quản lý nhà nước hướng tới xác lập những giá trị cốt lõi về xã hội
 D. Là nền kinh tế phát thuy được trí tuệ và nguồn lực của toàn dân
 E. Tất cả phương án trên
-=> Answer: e, E
+=> Answer: e, E;
 
-Q61: Kizspy | Question: 56
+Q57: Kizspy | Question: 56
 (Choose 1 answer)
 Thị trường giải quyết ba vấn đề kinh tế nào?
 A. Sản xuất cái gì? Sản xuất như thế nào? Sản xuất cho ai?
 B. Sản xuất ở đâu? Sản xuất bao lâu? Giá thành sản xuất như thế nào?
 C. Sản xuất với giá cả nào? Sản xuất với hàng hóa gì? Cung cầu ra sao?
 D. Sản xuất cái gì? Sản xuất ở đâu? Giá thành sản xuất như thế nào?
-=> Answer: a, A, A
+=> Answer: a, A, A;
 
-Q63: Kizspy | Question: 57 (Choose 1 answer)
+Q58: Kizspy | Question: 57 (Choose 1 answer)
 Đặc trưng cơ bản của cách mạng công nghiệp lần thứ ba là gì?
 A. Sử dụng công nghệ thông tin và máy tính
 B. Sử dụng năng lượng điện
 C. Sử dụng động cơ hơi nước
 D. Sử dụng động cơ điện
-=> Answer: a, A
+=> Answer: a, A;
 
-Q64: Kizspy | Question: 58
+Q59: Kizspy | Question: 58
 (Choose 1 answer)
 Cứ 100 công nhân thì tạo ra giá trị mới là 500.000 USD, tư bản khả biến cho mỗi công nhân là 1.000 USD/tháng. Để tạo ra được giá trị môi 1.200.000 USD thì cần lượng công nhân là bao nhiêu, biết rằng tiền lương cho mỗi công nhân không đổi và trình độ bóc lột tăng thêm 100%.
 A. Số công nhân là 200 người
 B. Số công nhân là 100 người
 C. Số công nhân là 500 người
 D. Số công nhân là 50 người
-=> Answer: a, a
+=> Answer: a, a;
+
+Q60: Kizspy | Question: 59
+(Choose 1 answer)
+Điền vào chỗ trống: Theo Karl Marx, kinh tế chính trị học tư sản cổ điển Anh bắt đầu từ... và kết thúc ở...
+A. William Petty... David Ricardo
+B. William Petty...Adam Smith
+C. Adam Smith... David Ricardo
+D. Adam Smith... Thomas Malthus
+=> Answer: a, A;
+
+Q61: Kizspy | Question: 60
+(Choose 1 answer)
+Ai là người đề xuất ra ba loại thương nghiệp (trao đổi tự nhiên, trao đổi tiền tệ, trao đổi thông qua mục đích làm giàu) và hai loại kinh doanh (kinh tế, sản xuất của cải)?
+A. Aristoteles
+B. Platon
+C. Xenophon
+D. Karl Marx
+=> Answer: A, a;
